@@ -1,0 +1,32 @@
+class Journey{
+
+ 	private ArrayList<WayPoint> waypoints	//i'm only storing the terminals
+  	private Vessel vessel
+  
+	public Journey(Vessel v){
+		vessel = v;
+	}
+  	public checkWaypoint(){
+    	if(vessel.getSpeed() < 2){		//if the ship is detected as having little to no movement 
+			for(Waypoint w : <<waypoint list>>){	//I'm not sure if we will have a list of waypoints to check
+				if(w.isShipNear(vessel)){
+					if(w.getType() == "Terminal"){		//funtion getType should return a string or number or something to id it
+						waypoints.add(w);
+						break;
+					}
+					elseif(w.getType() == "Refinery"){
+						this.complete();
+						break;
+					}
+				}
+			}			
+		}
+	}
+  	public complete(){
+		float droppedOff = vessel.size() / waypoints.size();	//amount dropped off at each terminal
+		for(Waypoint w : waypoints){		//adds that amount to each terminal
+			w.setAmount(w.getAmount + droppedOff);
+		}
+	}
+		
+}
