@@ -1,0 +1,4 @@
+class Terminal extends WayPoint
+{
+	// Functionality yet to come
+}
