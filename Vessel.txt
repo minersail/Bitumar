@@ -34,9 +34,11 @@ class Vessel
 
 	public void addCargo(float amt)
 	{
-		cargo += amt;
+		if(cargo + amt >= cargoMax)
+			cargo = cargoMax;
+		else cargo += amt;
 	}
-
+	
 	public float getCargo()
 	{
 		return cargo;
