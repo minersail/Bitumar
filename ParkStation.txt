@@ -1,5 +1,0 @@
-class ParkStation extends WayPoint
-{
-	// TODO: Maybe keep track of time spent parked? maybe
-	// Functionality yet to come
-}

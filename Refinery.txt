@@ -1,8 +1,0 @@
-class Refinery extends WayPoint
-{
-	private	float amountProduct;
-	public addProduct(float amount)
-	{
-		amountProduct += amount;
-	}
-}
