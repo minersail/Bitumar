@@ -18,7 +18,7 @@ public class Journey implements ShipObserver
         }
 	
   	public void checkWaypoint(){
-    	if(vessel.getSpeed() < 2){		//if the ship is detected as having little to no movement 
+    	if(vessel.getSpeed() < 1){		//if the ship is detected as having little to no movement 
 			for(WayPoint w : waypoints){	//I'm not sure if we will have a list of waypoints to check
 				if(w.getShipProximity(vessel) < PARK_DISTANCE){
 					if(w instanceof Terminal){		//funtion getType should return a string or number or something to id it
