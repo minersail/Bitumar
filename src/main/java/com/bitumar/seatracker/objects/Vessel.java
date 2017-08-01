@@ -1,5 +1,6 @@
 package com.bitumar.seatracker.objects;
 
+import com.bitumar.seatracker.webscraper.ShipData;
 import java.util.ArrayList;
 
 public class Vessel
@@ -17,6 +18,12 @@ public class Vessel
 		// Unsure about implementation for now; Should parse CSV
 		// Maybe id system to link to ships
 	}
+        
+        public void update(ArrayList<ShipData> data){
+            for(ShipObserver observer:shipObservers){
+                observer.notify(this);
+            }
+        }
 
 	public void setLat(float lat)
 	{
