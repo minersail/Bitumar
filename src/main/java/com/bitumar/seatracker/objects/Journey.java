@@ -2,7 +2,7 @@ package com.bitumar.seatracker.objects;
 
 import java.util.ArrayList;
 
-public class Journey
+public class Journey implements ShipObserver
 {
 	private final float PARK_DISTANCE = 100;
 	
@@ -12,6 +12,10 @@ public class Journey
 	public Journey(Vessel v){
 		vessel = v;
 	}
+        
+        public void notify(Vessel ship){
+            
+        }
 	
   	public void checkWaypoint(){
     	if(vessel.getSpeed() < 2){		//if the ship is detected as having little to no movement 

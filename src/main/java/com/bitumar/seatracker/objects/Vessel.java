@@ -1,5 +1,7 @@
 package com.bitumar.seatracker.objects;
 
+import java.util.ArrayList;
+
 public class Vessel
 {
 	private float latitude;
@@ -7,6 +9,8 @@ public class Vessel
 	private float cargo;
 	private float cargoMax;
 	private float speed;
+        
+        private ArrayList<ShipObserver> shipObservers;
 
 	public Vessel(String CSV)
 	{
