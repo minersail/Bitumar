@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class Vessel
 {
+	private String name;
 	private float latitude;
 	private float longitude;
 	private float cargo;
@@ -13,10 +14,14 @@ public class Vessel
         
         private ArrayList<ShipObserver> shipObservers;
 
-	public Vessel(String CSV)
+	public Vessel(String shipName, float maxCargo)
 	{
-		// Unsure about implementation for now; Should parse CSV
-		// Maybe id system to link to ships
+		name = shipName;
+		latitude = 0;
+		longitude = 0;
+		cargo = 0;
+		cargoMax = maxCargo;
+		speed = 0;
 	}
         
         public void update(ArrayList<ShipData> data){
@@ -65,5 +70,21 @@ public class Vessel
 	public float getSpeed()
 	{
 		return speed;
+	}	
+
+	public void setName(String shipName)
+	{
+		name = shipName;
+	}
+
+	public String getName()
+	{
+		return name;
+	}
+	
+	@Override
+	public String toString()
+	{
+		return "Vessel " + name + " at location (" + latitude + ", " + longitude + ")";
 	}
 }
