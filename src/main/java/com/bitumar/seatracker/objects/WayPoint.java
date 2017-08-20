@@ -1,12 +1,14 @@
 package com.bitumar.seatracker.objects;
 
-abstract class WayPoint
+public abstract class WayPoint
 {
+	String name;
 	float latitude;
 	float longitude;
 	
-	protected WayPoint(float lat, float lon)
+	protected WayPoint(String n, float lat, float lon)
 	{
+		name = n;
 		latitude = lat;
 		longitude = lon;
 	}
@@ -30,4 +32,15 @@ abstract class WayPoint
 
 		return (float)c * EARTH_RADIUS;
 	}
+	
+	@Override
+	public String toString()
+	{
+		return "Waypoint " + name + " at (" + latitude + ", " + longitude + ")";
+	}
+	
+	public String getName()
+	{
+		return name;
+	}		
 }

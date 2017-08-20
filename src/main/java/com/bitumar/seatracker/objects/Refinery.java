@@ -1,10 +1,10 @@
 package com.bitumar.seatracker.objects;
 
-class Refinery extends WayPoint
+public class Refinery extends WayPoint
 {
 	// Functionality yet to come
-	public Refinery(float lat, float lon)
+	public Refinery(String name, float lat, float lon)
 	{
-		super(lat, lon);
+		super(name, lat, lon);
 	}
 }

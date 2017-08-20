@@ -1,16 +1,21 @@
 package com.bitumar.seatracker.objects;
 
-class Terminal extends WayPoint
+public class Terminal extends WayPoint
 {
 	private	float amountProduct;
 
-	public Terminal(float lat, float lon)
+	public Terminal(String name, float lat, float lon)
 	{
-		super(lat, lon);
+		super(name, lat, lon);
 	}
 	
 	public void addProduct(float amount)
 	{
 		amountProduct += amount;
+	}
+	
+	public float getProduct()
+	{
+		return amountProduct;
 	}
 }

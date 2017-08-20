@@ -29,18 +29,26 @@ public class WebScraper
 		WebElement element1 = (new WebDriverWait(driver, 10))
 			.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("a[href='/en/ais/index/ships/all/_:35575cc9087fd216f2873d74b5ae8426']")));		
 		
-		driver.get("http://www.marinetraffic.com/en/ais/index/fleet/all/_:35575cc9087fd216f2873d74b5ae8426/per_page:50");
+		driver.get("http://www.marinetraffic.com/en/ais/index/fleet/all/_:35575cc9087fd216f2873d74b5ae8426/per_page:20");
 		
 		ArrayList<String> shipList = new ArrayList<>();
 				
-		while (!driver.findElements(By.cssSelector("a[rel='next']")).isEmpty())
+		while (true)
 		{
 			driver.findElements(By.cssSelector("table tr:nth-child(n+2)")).forEach((WebElement t) ->
 			{
 				shipList.add(t.findElement(By.cssSelector("td:nth-child(4) a")).getAttribute("href"));
 			});
-			driver.findElement(By.cssSelector("a[rel='next']")).click();
-			new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".page_select")));
+			
+			if (!driver.findElements(By.cssSelector("a[rel='next']")).isEmpty())
+			{
+				break;
+			}
+			else
+			{
+				driver.findElement(By.cssSelector("a[rel='next']")).click();
+				new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".page_select")));
+			}
 		}
 		
 		shipList.forEach((String url) -> 

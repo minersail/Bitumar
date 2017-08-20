@@ -12,7 +12,7 @@ public class Vessel
 	private float cargoMax;
 	private float speed;
         
-        private ArrayList<ShipObserver> shipObservers;
+    private ArrayList<ShipObserver> shipObservers;
 
 	public Vessel(String shipName, float maxCargo)
 	{
@@ -22,13 +22,19 @@ public class Vessel
 		cargo = 0;
 		cargoMax = maxCargo;
 		speed = 0;
+		
+		shipObservers = new ArrayList<>();
 	}
         
-        public void update(ArrayList<ShipData> data){
-            for(ShipObserver observer:shipObservers){
-                observer.notify(this);
-            }
-        }
+	public void update(ShipData data){
+		latitude = data.latitude;
+		longitude = data.longitude;
+		speed = data.speed;		
+		
+		for(ShipObserver observer:shipObservers){
+			observer.notify(this);
+		}
+	}
 
 	public void setLat(float lat)
 	{
@@ -80,6 +86,16 @@ public class Vessel
 	public String getName()
 	{
 		return name;
+	}
+	
+	public void addObserver(ShipObserver obs)
+	{
+		shipObservers.add(obs);
+	}
+	
+	public void removeObserver(ShipObserver obs)
+	{
+		shipObservers.remove(obs);
 	}
 	
 	@Override
