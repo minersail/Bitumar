@@ -27,7 +27,7 @@ public class WebScraper
 		driver.findElement(By.cssSelector("button.vertical-offset-10")).click();
 		
 		WebElement element1 = (new WebDriverWait(driver, 10))
-			.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("a[href='/en/ais/index/ships/all/_:35575cc9087fd216f2873d74b5ae8426']")));		
+			.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("a[href='/en/ais/index/ships/all/_:35575cc9087fd216f2873d74b5ae8426']")));	
 		
 		driver.get("http://www.marinetraffic.com/en/ais/index/fleet/all/_:35575cc9087fd216f2873d74b5ae8426/per_page:20");
 		
@@ -40,7 +40,7 @@ public class WebScraper
 				shipList.add(t.findElement(By.cssSelector("td:nth-child(4) a")).getAttribute("href"));
 			});
 			
-			if (!driver.findElements(By.cssSelector("a[rel='next']")).isEmpty())
+			if (driver.findElements(By.cssSelector("a[rel='next']")).isEmpty())
 			{
 				break;
 			}

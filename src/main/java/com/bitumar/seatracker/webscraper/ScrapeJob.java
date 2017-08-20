@@ -6,6 +6,8 @@ import com.bitumar.seatracker.objects.Vessel;
 import com.bitumar.seatracker.objects.WayPoint;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.text.DateFormat;
 import java.util.ArrayList;
 import java.util.logging.Level;
@@ -59,8 +61,9 @@ public class ScrapeJob implements Job
 			//initialize CSVPrinter object 
 	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/journey_log.csv", true), CSVFormat.DEFAULT);
 	        
-	        //Create CSV file header
-	        csvFilePrinter.printRecord("Time", "Vessel", "Waypoints", "Time Parked");
+	        //Create CSV file header if empty
+			if (Files.size(Paths.get("src/main/resources/journey_log.csv")) == 0)
+				csvFilePrinter.printRecord("Time", "Vessel", "Waypoints", "Time Parked");
 			
 			for (Journey journey : journeys) 
 			{
@@ -103,8 +106,9 @@ public class ScrapeJob implements Job
 			//initialize CSVPrinter object 
 	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/vessel_log.csv", true), CSVFormat.DEFAULT);
 	        
-	        //Create CSV file header
-	        csvFilePrinter.printRecord("Time", "Name", "Latitude", "Longitude", "Speed");
+	        //Create CSV file header if empty
+			if (Files.size(Paths.get("src/main/resources/vessel_log.csv")) == 0)
+				csvFilePrinter.printRecord("Time", "Name", "Latitude", "Longitude", "Speed");
 			
 			for (Vessel vessel : vessels) 
 			{
@@ -145,8 +149,9 @@ public class ScrapeJob implements Job
 			//initialize CSVPrinter object 
 	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/terminal_log.csv", true), CSVFormat.DEFAULT);
 	        
-	        //Create CSV file header
-	        csvFilePrinter.printRecord("Time", "Name", "Product");
+	        //Create CSV file header if empty
+			if (Files.size(Paths.get("src/main/resources/terminal_log.csv")) == 0)
+				csvFilePrinter.printRecord("Time", "Name", "Product");
 			
 			for (WayPoint waypoint : journeys.get(0).getWayPointManager().getWayPoints())
 			{

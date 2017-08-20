@@ -60,7 +60,7 @@ public class SeaTracker
 
 		CronTrigger trigger = newTrigger()
 			.withIdentity("trigger1", "group1")
-			.withSchedule(CronScheduleBuilder.cronSchedule(new CronExpression("0 17 * * * ?")))
+			.withSchedule(CronScheduleBuilder.cronSchedule(new CronExpression("0 0/15 * * * ?")))
 			.build();
 
 		sched.start();
