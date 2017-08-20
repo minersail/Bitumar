@@ -10,12 +10,14 @@ public class Journey implements ShipObserver
 	private WayPointManager wpManager; // Provides access to global waypoints
  	private ArrayList<WayPoint> waypoints;	//i'm only storing the terminals (THIS IS A LIST OF JOURNEY'S PERSONAL WAYPOINTS, NOT GLOBAL WAYPOINTS)
   	private Vessel vessel;
-	private int parkedTimer; 
+	private int parkedTimer;
+        private boolean endJourney;
   
 	public Journey(Vessel v, WayPointManager manager){
 		vessel = v;
 		wpManager = manager;
 		waypoints = new ArrayList<>();
+                endJourney = false;
 	}
         
 	@Override
@@ -24,32 +26,36 @@ public class Journey implements ShipObserver
 	}
 	
   	public void checkWaypoints(){
-    	if(vessel.getSpeed() < 0.3){		//if the ship is detected as having little to no movement 
-			for(WayPoint w : wpManager.getWayPoints()){
-				if(w.getShipProximity(vessel) < PARK_DISTANCE)
-				{
-					parkedTimer += 15;
-					
-					if (parkedTimer >= PARK_TIME)
-					{
-						if(w instanceof Terminal){		//funtion getType should return a string or number or something to id it
-							if (!waypoints.contains(w))
-							{
-								waypoints.add(w);
-							}
-						}
-						else if(w instanceof Refinery){
-							this.complete();
-						}
-					}
-					return;
-				}
-			}			
-		}
-		parkedTimer = 0;
+            if(endJourney){
+                if(vessel.getSpeed() > 0.3){
+                    endJourney = false;
+                }
+                return;
+            }
+            if(vessel.getSpeed() < 0.3){                            //if the ship is detected as having little to no movement 
+                for(WayPoint w : wpManager.getWayPoints()){
+                    if(w.getShipProximity(vessel) < PARK_DISTANCE){
+                        parkedTimer += 15;
+                        if (parkedTimer >= PARK_TIME){
+                            if(w instanceof Terminal){		//funtion getType should return a string or number or something to id it
+                                if (!waypoints.contains(w))
+                                {
+                                        waypoints.add(w);
+                                }
+                            }
+                            else if(w instanceof Refinery){
+                                this.complete();
+                            }
+                        }
+                        return;
+                    }
+                }			
+            }
+            parkedTimer = 0;
 	}
 	
   	public void complete(){
+                endJourney = true;
 		float droppedOff = vessel.getCargo() / waypoints.size();	//amount dropped off at each terminal
 		for(WayPoint w : waypoints) {		//adds that amount to each terminal
 			if (w instanceof Terminal)
@@ -57,6 +63,9 @@ public class Journey implements ShipObserver
 				((Terminal)w).addProduct(droppedOff);
 			}
 		}
+                for(int i=0; i<waypoints.size() ; i++){
+                    waypoints.set(i,null);
+                }
 	}		
 	
 	public Vessel getVessel()
