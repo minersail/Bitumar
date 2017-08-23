@@ -1,145 +1,2257 @@
 Time,Name,Product
-8/20/17 12:15 PM,Apex Oil Chesapeake,0.0
-8/20/17 12:15 PM,Nu Star Piney Point,0.0
-8/20/17 12:15 PM,Kinder Morgan (Valero) Richmond,0.0
-8/20/17 12:15 PM,Nu Star Newport News,0.0
-8/20/17 12:15 PM,Apex Oil Baltimore (Valero),0.0
-8/20/17 12:15 PM,Bitumar Hamilton,0.0
-8/20/17 12:15 PM,Iko Industries Hamilton,0.0
-8/20/17 12:15 PM,McAsphalt Oshawa,0.0
-8/20/17 12:15 PM,McAsphalt Dartmouth,0.0
-8/20/17 12:15 PM,Suncor Montreal,0.0
-8/20/17 12:15 PM,Canterm Montreal,0.0
-8/20/17 12:15 PM,TME Montreal,0.0
-8/20/17 12:15 PM,Sprague Sorel-Tracy,0.0
-8/20/17 12:15 PM,Sterling Fuels Windsor,0.0
-8/20/17 12:15 PM,BP Whiting,0.0
-8/20/17 12:15 PM,AOS Chicago,0.0
-8/20/17 12:15 PM,Marathon Detroit,0.0
-8/20/17 12:15 PM,Suncor Sarnia,0.0
-8/20/17 12:15 PM,Peckham Bronx,0.0
-8/20/17 12:15 PM,Nu Star Bronx,0.0
-8/20/17 12:15 PM,Nu Star Albany,0.0
-8/20/17 12:15 PM,Peckham Albany,0.0
-8/20/17 12:15 PM,Gorman Albany,0.0
-8/20/17 12:15 PM,Pike Portsmouth,0.0
-8/20/17 12:15 PM,Aggregate Industries Boston,0.0
-8/20/17 12:15 PM,Nu Star Baltimore,0.0
-8/20/17 12:15 PM,Irving St. John,0.0
-8/20/17 12:15 PM,McAsphalt Hamilton,0.0
-8/20/17 12:15 PM,Nu Star Dumfries,0.0
-8/20/17 12:15 PM,Warner Mistersky,0.0
-8/20/17 12:15 PM,BP Toledo,0.0
-8/20/17 12:15 PM,BP Cleveland,0.0
-8/20/17 12:15 PM,Irving Botwood,0.0
-8/20/17 12:15 PM,Irving Stephenville,0.0
-8/20/17 12:15 PM,Irving Holyrood,0.0
-8/20/17 12:15 PM,Irving Searsport,0.0
-8/20/17 12:15 PM,Irving South Portland,0.0
-8/20/17 12:15 PM,Irving Newington,0.0
-8/20/17 12:15 PM,Irving New Haven,0.0
-8/20/17 12:15 PM,NOCO Tonawanda,0.0
-8/20/17 12:15 PM,Bajo Grande Refinery,0.0
-8/20/17 12:15 PM,Nu Star Savannah,0.0
-8/20/17 12:15 PM,Payne & Dolan Milwaukee,0.0
-8/20/17 12:15 PM,MIT Jones Island,0.0
-8/20/17 12:15 PM,GCAC Mobile,0.0
-8/20/17 12:15 PM,Canadian Asphalt Industries,0.0
-8/20/17 12:15 PM,Shell Corunna,0.0
-8/20/17 12:15 PM,Sprague Providence,0.0
-8/20/17 12:30 PM,Apex Oil Chesapeake,0.0
-8/20/17 12:30 PM,Nu Star Piney Point,0.0
-8/20/17 12:30 PM,Kinder Morgan (Valero) Richmond,0.0
-8/20/17 12:30 PM,Nu Star Newport News,0.0
-8/20/17 12:30 PM,Apex Oil Baltimore (Valero),0.0
-8/20/17 12:30 PM,Bitumar Hamilton,0.0
-8/20/17 12:30 PM,Iko Industries Hamilton,0.0
-8/20/17 12:30 PM,McAsphalt Oshawa,0.0
-8/20/17 12:30 PM,McAsphalt Dartmouth,0.0
-8/20/17 12:30 PM,Suncor Montreal,0.0
-8/20/17 12:30 PM,Canterm Montreal,0.0
-8/20/17 12:30 PM,TME Montreal,0.0
-8/20/17 12:30 PM,Sprague Sorel-Tracy,0.0
-8/20/17 12:30 PM,Sterling Fuels Windsor,0.0
-8/20/17 12:30 PM,BP Whiting,0.0
-8/20/17 12:30 PM,AOS Chicago,0.0
-8/20/17 12:30 PM,Marathon Detroit,0.0
-8/20/17 12:30 PM,Suncor Sarnia,0.0
-8/20/17 12:30 PM,Peckham Bronx,0.0
-8/20/17 12:30 PM,Nu Star Bronx,0.0
-8/20/17 12:30 PM,Nu Star Albany,0.0
-8/20/17 12:30 PM,Peckham Albany,0.0
-8/20/17 12:30 PM,Gorman Albany,0.0
-8/20/17 12:30 PM,Pike Portsmouth,0.0
-8/20/17 12:30 PM,Aggregate Industries Boston,0.0
-8/20/17 12:30 PM,Nu Star Baltimore,0.0
-8/20/17 12:30 PM,Irving St. John,0.0
-8/20/17 12:30 PM,McAsphalt Hamilton,0.0
-8/20/17 12:30 PM,Nu Star Dumfries,0.0
-8/20/17 12:30 PM,Warner Mistersky,0.0
-8/20/17 12:30 PM,BP Toledo,0.0
-8/20/17 12:30 PM,BP Cleveland,0.0
-8/20/17 12:30 PM,Irving Botwood,0.0
-8/20/17 12:30 PM,Irving Stephenville,0.0
-8/20/17 12:30 PM,Irving Holyrood,0.0
-8/20/17 12:30 PM,Irving Searsport,0.0
-8/20/17 12:30 PM,Irving South Portland,0.0
-8/20/17 12:30 PM,Irving Newington,0.0
-8/20/17 12:30 PM,Irving New Haven,0.0
-8/20/17 12:30 PM,NOCO Tonawanda,0.0
-8/20/17 12:30 PM,Bajo Grande Refinery,0.0
-8/20/17 12:30 PM,Nu Star Savannah,0.0
-8/20/17 12:30 PM,Payne & Dolan Milwaukee,0.0
-8/20/17 12:30 PM,MIT Jones Island,0.0
-8/20/17 12:30 PM,GCAC Mobile,0.0
-8/20/17 12:30 PM,Canadian Asphalt Industries,0.0
-8/20/17 12:30 PM,Shell Corunna,0.0
-8/20/17 12:30 PM,Sprague Providence,0.0
-8/20/17 12:45 PM,Apex Oil Chesapeake,0.0
-8/20/17 12:45 PM,Nu Star Piney Point,0.0
-8/20/17 12:45 PM,Kinder Morgan (Valero) Richmond,0.0
-8/20/17 12:45 PM,Nu Star Newport News,0.0
-8/20/17 12:45 PM,Apex Oil Baltimore (Valero),0.0
-8/20/17 12:45 PM,Bitumar Hamilton,0.0
-8/20/17 12:45 PM,Iko Industries Hamilton,0.0
-8/20/17 12:45 PM,McAsphalt Oshawa,0.0
-8/20/17 12:45 PM,McAsphalt Dartmouth,0.0
-8/20/17 12:45 PM,Suncor Montreal,0.0
-8/20/17 12:45 PM,Canterm Montreal,0.0
-8/20/17 12:45 PM,TME Montreal,0.0
-8/20/17 12:45 PM,Sprague Sorel-Tracy,0.0
-8/20/17 12:45 PM,Sterling Fuels Windsor,0.0
-8/20/17 12:45 PM,BP Whiting,0.0
-8/20/17 12:45 PM,AOS Chicago,0.0
-8/20/17 12:45 PM,Marathon Detroit,0.0
-8/20/17 12:45 PM,Suncor Sarnia,0.0
-8/20/17 12:45 PM,Peckham Bronx,0.0
-8/20/17 12:45 PM,Nu Star Bronx,0.0
-8/20/17 12:45 PM,Nu Star Albany,0.0
-8/20/17 12:45 PM,Peckham Albany,0.0
-8/20/17 12:45 PM,Gorman Albany,0.0
-8/20/17 12:45 PM,Pike Portsmouth,0.0
-8/20/17 12:45 PM,Aggregate Industries Boston,0.0
-8/20/17 12:45 PM,Nu Star Baltimore,0.0
-8/20/17 12:45 PM,Irving St. John,0.0
-8/20/17 12:45 PM,McAsphalt Hamilton,0.0
-8/20/17 12:45 PM,Nu Star Dumfries,0.0
-8/20/17 12:45 PM,Warner Mistersky,0.0
-8/20/17 12:45 PM,BP Toledo,0.0
-8/20/17 12:45 PM,BP Cleveland,0.0
-8/20/17 12:45 PM,Irving Botwood,0.0
-8/20/17 12:45 PM,Irving Stephenville,0.0
-8/20/17 12:45 PM,Irving Holyrood,0.0
-8/20/17 12:45 PM,Irving Searsport,0.0
-8/20/17 12:45 PM,Irving South Portland,0.0
-8/20/17 12:45 PM,Irving Newington,0.0
-8/20/17 12:45 PM,Irving New Haven,0.0
-8/20/17 12:45 PM,NOCO Tonawanda,0.0
-8/20/17 12:45 PM,Bajo Grande Refinery,0.0
-8/20/17 12:45 PM,Nu Star Savannah,0.0
-8/20/17 12:45 PM,Payne & Dolan Milwaukee,0.0
-8/20/17 12:45 PM,MIT Jones Island,0.0
-8/20/17 12:45 PM,GCAC Mobile,0.0
-8/20/17 12:45 PM,Canadian Asphalt Industries,0.0
-8/20/17 12:45 PM,Shell Corunna,0.0
-8/20/17 12:45 PM,Sprague Providence,0.0
+8/21/17 7:00 PM,Apex Oil Chesapeake,0.0
+8/21/17 7:00 PM,Nu Star Piney Point,0.0
+8/21/17 7:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 7:00 PM,Nu Star Newport News,0.0
+8/21/17 7:00 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 7:00 PM,Bitumar Hamilton,0.0
+8/21/17 7:00 PM,Iko Industries Hamilton,0.0
+8/21/17 7:00 PM,McAsphalt Oshawa,0.0
+8/21/17 7:00 PM,McAsphalt Dartmouth,0.0
+8/21/17 7:00 PM,Suncor Montreal,0.0
+8/21/17 7:00 PM,Canterm Montreal,0.0
+8/21/17 7:00 PM,TME Montreal,0.0
+8/21/17 7:00 PM,Sprague Sorel-Tracy,0.0
+8/21/17 7:00 PM,Sterling Fuels Windsor,0.0
+8/21/17 7:00 PM,BP Whiting,0.0
+8/21/17 7:00 PM,AOS Chicago,0.0
+8/21/17 7:00 PM,Marathon Detroit,0.0
+8/21/17 7:00 PM,Suncor Sarnia,0.0
+8/21/17 7:00 PM,Peckham Bronx,0.0
+8/21/17 7:00 PM,Nu Star Bronx,0.0
+8/21/17 7:00 PM,Nu Star Albany,0.0
+8/21/17 7:00 PM,Peckham Albany,0.0
+8/21/17 7:00 PM,Gorman Albany,0.0
+8/21/17 7:00 PM,Pike Portsmouth,0.0
+8/21/17 7:00 PM,Aggregate Industries Boston,0.0
+8/21/17 7:00 PM,Nu Star Baltimore,0.0
+8/21/17 7:00 PM,Irving St. John,0.0
+8/21/17 7:00 PM,McAsphalt Hamilton,0.0
+8/21/17 7:00 PM,Nu Star Dumfries,0.0
+8/21/17 7:00 PM,Warner Mistersky,0.0
+8/21/17 7:00 PM,BP Toledo,0.0
+8/21/17 7:00 PM,BP Cleveland,0.0
+8/21/17 7:00 PM,Irving Botwood,0.0
+8/21/17 7:00 PM,Irving Stephenville,0.0
+8/21/17 7:00 PM,Irving Holyrood,0.0
+8/21/17 7:00 PM,Irving Searsport,0.0
+8/21/17 7:00 PM,Irving South Portland,0.0
+8/21/17 7:00 PM,Irving Newington,0.0
+8/21/17 7:00 PM,Irving New Haven,0.0
+8/21/17 7:00 PM,NOCO Tonawanda,0.0
+8/21/17 7:00 PM,Bajo Grande Refinery,0.0
+8/21/17 7:00 PM,Nu Star Savannah,0.0
+8/21/17 7:00 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 7:00 PM,MIT Jones Island,0.0
+8/21/17 7:00 PM,GCAC Mobile,0.0
+8/21/17 7:00 PM,Canadian Asphalt Industries,0.0
+8/21/17 7:00 PM,Shell Corunna,0.0
+8/21/17 7:00 PM,Sprague Providence,0.0
+8/21/17 7:15 PM,Apex Oil Chesapeake,0.0
+8/21/17 7:15 PM,Nu Star Piney Point,0.0
+8/21/17 7:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 7:15 PM,Nu Star Newport News,0.0
+8/21/17 7:15 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 7:15 PM,Bitumar Hamilton,0.0
+8/21/17 7:15 PM,Iko Industries Hamilton,0.0
+8/21/17 7:15 PM,McAsphalt Oshawa,0.0
+8/21/17 7:15 PM,McAsphalt Dartmouth,0.0
+8/21/17 7:15 PM,Suncor Montreal,0.0
+8/21/17 7:15 PM,Canterm Montreal,0.0
+8/21/17 7:15 PM,TME Montreal,0.0
+8/21/17 7:15 PM,Sprague Sorel-Tracy,0.0
+8/21/17 7:15 PM,Sterling Fuels Windsor,0.0
+8/21/17 7:15 PM,BP Whiting,0.0
+8/21/17 7:15 PM,AOS Chicago,0.0
+8/21/17 7:15 PM,Marathon Detroit,0.0
+8/21/17 7:15 PM,Suncor Sarnia,0.0
+8/21/17 7:15 PM,Peckham Bronx,0.0
+8/21/17 7:15 PM,Nu Star Bronx,0.0
+8/21/17 7:15 PM,Nu Star Albany,0.0
+8/21/17 7:15 PM,Peckham Albany,0.0
+8/21/17 7:15 PM,Gorman Albany,0.0
+8/21/17 7:15 PM,Pike Portsmouth,0.0
+8/21/17 7:15 PM,Aggregate Industries Boston,0.0
+8/21/17 7:15 PM,Nu Star Baltimore,0.0
+8/21/17 7:15 PM,Irving St. John,0.0
+8/21/17 7:15 PM,McAsphalt Hamilton,0.0
+8/21/17 7:15 PM,Nu Star Dumfries,0.0
+8/21/17 7:15 PM,Warner Mistersky,0.0
+8/21/17 7:15 PM,BP Toledo,0.0
+8/21/17 7:15 PM,BP Cleveland,0.0
+8/21/17 7:15 PM,Irving Botwood,0.0
+8/21/17 7:15 PM,Irving Stephenville,0.0
+8/21/17 7:15 PM,Irving Holyrood,0.0
+8/21/17 7:15 PM,Irving Searsport,0.0
+8/21/17 7:15 PM,Irving South Portland,0.0
+8/21/17 7:15 PM,Irving Newington,0.0
+8/21/17 7:15 PM,Irving New Haven,0.0
+8/21/17 7:15 PM,NOCO Tonawanda,0.0
+8/21/17 7:15 PM,Bajo Grande Refinery,0.0
+8/21/17 7:15 PM,Nu Star Savannah,0.0
+8/21/17 7:15 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 7:15 PM,MIT Jones Island,0.0
+8/21/17 7:15 PM,GCAC Mobile,0.0
+8/21/17 7:15 PM,Canadian Asphalt Industries,0.0
+8/21/17 7:15 PM,Shell Corunna,0.0
+8/21/17 7:15 PM,Sprague Providence,0.0
+8/21/17 7:30 PM,Apex Oil Chesapeake,0.0
+8/21/17 7:30 PM,Nu Star Piney Point,0.0
+8/21/17 7:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 7:30 PM,Nu Star Newport News,0.0
+8/21/17 7:30 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 7:30 PM,Bitumar Hamilton,0.0
+8/21/17 7:30 PM,Iko Industries Hamilton,0.0
+8/21/17 7:30 PM,McAsphalt Oshawa,0.0
+8/21/17 7:30 PM,McAsphalt Dartmouth,0.0
+8/21/17 7:30 PM,Suncor Montreal,0.0
+8/21/17 7:30 PM,Canterm Montreal,0.0
+8/21/17 7:30 PM,TME Montreal,0.0
+8/21/17 7:30 PM,Sprague Sorel-Tracy,0.0
+8/21/17 7:30 PM,Sterling Fuels Windsor,0.0
+8/21/17 7:30 PM,BP Whiting,0.0
+8/21/17 7:30 PM,AOS Chicago,0.0
+8/21/17 7:30 PM,Marathon Detroit,0.0
+8/21/17 7:30 PM,Suncor Sarnia,0.0
+8/21/17 7:30 PM,Peckham Bronx,0.0
+8/21/17 7:30 PM,Nu Star Bronx,0.0
+8/21/17 7:30 PM,Nu Star Albany,0.0
+8/21/17 7:30 PM,Peckham Albany,0.0
+8/21/17 7:30 PM,Gorman Albany,0.0
+8/21/17 7:30 PM,Pike Portsmouth,0.0
+8/21/17 7:30 PM,Aggregate Industries Boston,0.0
+8/21/17 7:30 PM,Nu Star Baltimore,0.0
+8/21/17 7:30 PM,Irving St. John,0.0
+8/21/17 7:30 PM,McAsphalt Hamilton,0.0
+8/21/17 7:30 PM,Nu Star Dumfries,0.0
+8/21/17 7:30 PM,Warner Mistersky,0.0
+8/21/17 7:30 PM,BP Toledo,0.0
+8/21/17 7:30 PM,BP Cleveland,0.0
+8/21/17 7:30 PM,Irving Botwood,0.0
+8/21/17 7:30 PM,Irving Stephenville,0.0
+8/21/17 7:30 PM,Irving Holyrood,0.0
+8/21/17 7:30 PM,Irving Searsport,0.0
+8/21/17 7:30 PM,Irving South Portland,0.0
+8/21/17 7:30 PM,Irving Newington,0.0
+8/21/17 7:30 PM,Irving New Haven,0.0
+8/21/17 7:30 PM,NOCO Tonawanda,0.0
+8/21/17 7:30 PM,Bajo Grande Refinery,0.0
+8/21/17 7:30 PM,Nu Star Savannah,0.0
+8/21/17 7:30 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 7:30 PM,MIT Jones Island,0.0
+8/21/17 7:30 PM,GCAC Mobile,0.0
+8/21/17 7:30 PM,Canadian Asphalt Industries,0.0
+8/21/17 7:30 PM,Shell Corunna,0.0
+8/21/17 7:30 PM,Sprague Providence,0.0
+8/21/17 7:45 PM,Apex Oil Chesapeake,0.0
+8/21/17 7:45 PM,Nu Star Piney Point,0.0
+8/21/17 7:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 7:45 PM,Nu Star Newport News,0.0
+8/21/17 7:45 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 7:45 PM,Bitumar Hamilton,0.0
+8/21/17 7:45 PM,Iko Industries Hamilton,0.0
+8/21/17 7:45 PM,McAsphalt Oshawa,0.0
+8/21/17 7:45 PM,McAsphalt Dartmouth,0.0
+8/21/17 7:45 PM,Suncor Montreal,0.0
+8/21/17 7:45 PM,Canterm Montreal,0.0
+8/21/17 7:45 PM,TME Montreal,0.0
+8/21/17 7:45 PM,Sprague Sorel-Tracy,0.0
+8/21/17 7:45 PM,Sterling Fuels Windsor,0.0
+8/21/17 7:45 PM,BP Whiting,0.0
+8/21/17 7:45 PM,AOS Chicago,0.0
+8/21/17 7:45 PM,Marathon Detroit,0.0
+8/21/17 7:45 PM,Suncor Sarnia,0.0
+8/21/17 7:45 PM,Peckham Bronx,0.0
+8/21/17 7:45 PM,Nu Star Bronx,0.0
+8/21/17 7:45 PM,Nu Star Albany,0.0
+8/21/17 7:45 PM,Peckham Albany,0.0
+8/21/17 7:45 PM,Gorman Albany,0.0
+8/21/17 7:45 PM,Pike Portsmouth,0.0
+8/21/17 7:45 PM,Aggregate Industries Boston,0.0
+8/21/17 7:45 PM,Nu Star Baltimore,0.0
+8/21/17 7:45 PM,Irving St. John,0.0
+8/21/17 7:45 PM,McAsphalt Hamilton,0.0
+8/21/17 7:45 PM,Nu Star Dumfries,0.0
+8/21/17 7:45 PM,Warner Mistersky,0.0
+8/21/17 7:45 PM,BP Toledo,0.0
+8/21/17 7:45 PM,BP Cleveland,0.0
+8/21/17 7:45 PM,Irving Botwood,0.0
+8/21/17 7:45 PM,Irving Stephenville,0.0
+8/21/17 7:45 PM,Irving Holyrood,0.0
+8/21/17 7:45 PM,Irving Searsport,0.0
+8/21/17 7:45 PM,Irving South Portland,0.0
+8/21/17 7:45 PM,Irving Newington,0.0
+8/21/17 7:45 PM,Irving New Haven,0.0
+8/21/17 7:45 PM,NOCO Tonawanda,0.0
+8/21/17 7:45 PM,Bajo Grande Refinery,0.0
+8/21/17 7:45 PM,Nu Star Savannah,0.0
+8/21/17 7:45 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 7:45 PM,MIT Jones Island,0.0
+8/21/17 7:45 PM,GCAC Mobile,0.0
+8/21/17 7:45 PM,Canadian Asphalt Industries,0.0
+8/21/17 7:45 PM,Shell Corunna,0.0
+8/21/17 7:45 PM,Sprague Providence,0.0
+8/21/17 8:00 PM,Apex Oil Chesapeake,0.0
+8/21/17 8:00 PM,Nu Star Piney Point,0.0
+8/21/17 8:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 8:00 PM,Nu Star Newport News,0.0
+8/21/17 8:00 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 8:00 PM,Bitumar Hamilton,0.0
+8/21/17 8:00 PM,Iko Industries Hamilton,0.0
+8/21/17 8:00 PM,McAsphalt Oshawa,0.0
+8/21/17 8:00 PM,McAsphalt Dartmouth,0.0
+8/21/17 8:00 PM,Suncor Montreal,0.0
+8/21/17 8:00 PM,Canterm Montreal,0.0
+8/21/17 8:00 PM,TME Montreal,0.0
+8/21/17 8:00 PM,Sprague Sorel-Tracy,0.0
+8/21/17 8:00 PM,Sterling Fuels Windsor,0.0
+8/21/17 8:00 PM,BP Whiting,0.0
+8/21/17 8:00 PM,AOS Chicago,0.0
+8/21/17 8:00 PM,Marathon Detroit,0.0
+8/21/17 8:00 PM,Suncor Sarnia,0.0
+8/21/17 8:00 PM,Peckham Bronx,0.0
+8/21/17 8:00 PM,Nu Star Bronx,0.0
+8/21/17 8:00 PM,Nu Star Albany,0.0
+8/21/17 8:00 PM,Peckham Albany,0.0
+8/21/17 8:00 PM,Gorman Albany,0.0
+8/21/17 8:00 PM,Pike Portsmouth,0.0
+8/21/17 8:00 PM,Aggregate Industries Boston,0.0
+8/21/17 8:00 PM,Nu Star Baltimore,0.0
+8/21/17 8:00 PM,Irving St. John,0.0
+8/21/17 8:00 PM,McAsphalt Hamilton,0.0
+8/21/17 8:00 PM,Nu Star Dumfries,0.0
+8/21/17 8:00 PM,Warner Mistersky,0.0
+8/21/17 8:00 PM,BP Toledo,0.0
+8/21/17 8:00 PM,BP Cleveland,0.0
+8/21/17 8:00 PM,Irving Botwood,0.0
+8/21/17 8:00 PM,Irving Stephenville,0.0
+8/21/17 8:00 PM,Irving Holyrood,0.0
+8/21/17 8:00 PM,Irving Searsport,0.0
+8/21/17 8:00 PM,Irving South Portland,0.0
+8/21/17 8:00 PM,Irving Newington,0.0
+8/21/17 8:00 PM,Irving New Haven,0.0
+8/21/17 8:00 PM,NOCO Tonawanda,0.0
+8/21/17 8:00 PM,Bajo Grande Refinery,0.0
+8/21/17 8:00 PM,Nu Star Savannah,0.0
+8/21/17 8:00 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 8:00 PM,MIT Jones Island,0.0
+8/21/17 8:00 PM,GCAC Mobile,0.0
+8/21/17 8:00 PM,Canadian Asphalt Industries,0.0
+8/21/17 8:00 PM,Shell Corunna,0.0
+8/21/17 8:00 PM,Sprague Providence,0.0
+8/21/17 8:30 PM,Apex Oil Chesapeake,0.0
+8/21/17 8:30 PM,Nu Star Piney Point,0.0
+8/21/17 8:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 8:30 PM,Nu Star Newport News,0.0
+8/21/17 8:30 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 8:30 PM,Bitumar Hamilton,0.0
+8/21/17 8:30 PM,Iko Industries Hamilton,0.0
+8/21/17 8:30 PM,McAsphalt Oshawa,0.0
+8/21/17 8:30 PM,McAsphalt Dartmouth,0.0
+8/21/17 8:30 PM,Suncor Montreal,0.0
+8/21/17 8:30 PM,Canterm Montreal,0.0
+8/21/17 8:30 PM,TME Montreal,0.0
+8/21/17 8:30 PM,Sprague Sorel-Tracy,0.0
+8/21/17 8:30 PM,Sterling Fuels Windsor,0.0
+8/21/17 8:30 PM,BP Whiting,0.0
+8/21/17 8:30 PM,AOS Chicago,0.0
+8/21/17 8:30 PM,Marathon Detroit,0.0
+8/21/17 8:30 PM,Suncor Sarnia,0.0
+8/21/17 8:30 PM,Peckham Bronx,0.0
+8/21/17 8:30 PM,Nu Star Bronx,0.0
+8/21/17 8:30 PM,Nu Star Albany,0.0
+8/21/17 8:30 PM,Peckham Albany,0.0
+8/21/17 8:30 PM,Gorman Albany,0.0
+8/21/17 8:30 PM,Pike Portsmouth,0.0
+8/21/17 8:30 PM,Aggregate Industries Boston,0.0
+8/21/17 8:30 PM,Nu Star Baltimore,0.0
+8/21/17 8:30 PM,Irving St. John,0.0
+8/21/17 8:30 PM,McAsphalt Hamilton,0.0
+8/21/17 8:30 PM,Nu Star Dumfries,0.0
+8/21/17 8:30 PM,Warner Mistersky,0.0
+8/21/17 8:30 PM,BP Toledo,0.0
+8/21/17 8:30 PM,BP Cleveland,0.0
+8/21/17 8:30 PM,Irving Botwood,0.0
+8/21/17 8:30 PM,Irving Stephenville,0.0
+8/21/17 8:30 PM,Irving Holyrood,0.0
+8/21/17 8:30 PM,Irving Searsport,0.0
+8/21/17 8:30 PM,Irving South Portland,0.0
+8/21/17 8:30 PM,Irving Newington,0.0
+8/21/17 8:30 PM,Irving New Haven,0.0
+8/21/17 8:30 PM,NOCO Tonawanda,0.0
+8/21/17 8:30 PM,Bajo Grande Refinery,0.0
+8/21/17 8:30 PM,Nu Star Savannah,0.0
+8/21/17 8:30 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 8:30 PM,MIT Jones Island,0.0
+8/21/17 8:30 PM,GCAC Mobile,0.0
+8/21/17 8:30 PM,Canadian Asphalt Industries,0.0
+8/21/17 8:30 PM,Shell Corunna,0.0
+8/21/17 8:30 PM,Sprague Providence,0.0
+8/21/17 8:45 PM,Apex Oil Chesapeake,0.0
+8/21/17 8:45 PM,Nu Star Piney Point,0.0
+8/21/17 8:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 8:45 PM,Nu Star Newport News,0.0
+8/21/17 8:45 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 8:45 PM,Bitumar Hamilton,0.0
+8/21/17 8:45 PM,Iko Industries Hamilton,0.0
+8/21/17 8:45 PM,McAsphalt Oshawa,0.0
+8/21/17 8:45 PM,McAsphalt Dartmouth,0.0
+8/21/17 8:45 PM,Suncor Montreal,0.0
+8/21/17 8:45 PM,Canterm Montreal,0.0
+8/21/17 8:45 PM,TME Montreal,0.0
+8/21/17 8:45 PM,Sprague Sorel-Tracy,0.0
+8/21/17 8:45 PM,Sterling Fuels Windsor,0.0
+8/21/17 8:45 PM,BP Whiting,0.0
+8/21/17 8:45 PM,AOS Chicago,0.0
+8/21/17 8:45 PM,Marathon Detroit,0.0
+8/21/17 8:45 PM,Suncor Sarnia,0.0
+8/21/17 8:45 PM,Peckham Bronx,0.0
+8/21/17 8:45 PM,Nu Star Bronx,0.0
+8/21/17 8:45 PM,Nu Star Albany,0.0
+8/21/17 8:45 PM,Peckham Albany,0.0
+8/21/17 8:45 PM,Gorman Albany,0.0
+8/21/17 8:45 PM,Pike Portsmouth,0.0
+8/21/17 8:45 PM,Aggregate Industries Boston,0.0
+8/21/17 8:45 PM,Nu Star Baltimore,0.0
+8/21/17 8:45 PM,Irving St. John,0.0
+8/21/17 8:45 PM,McAsphalt Hamilton,0.0
+8/21/17 8:45 PM,Nu Star Dumfries,0.0
+8/21/17 8:45 PM,Warner Mistersky,0.0
+8/21/17 8:45 PM,BP Toledo,0.0
+8/21/17 8:45 PM,BP Cleveland,0.0
+8/21/17 8:45 PM,Irving Botwood,0.0
+8/21/17 8:45 PM,Irving Stephenville,0.0
+8/21/17 8:45 PM,Irving Holyrood,0.0
+8/21/17 8:45 PM,Irving Searsport,0.0
+8/21/17 8:45 PM,Irving South Portland,0.0
+8/21/17 8:45 PM,Irving Newington,0.0
+8/21/17 8:45 PM,Irving New Haven,0.0
+8/21/17 8:45 PM,NOCO Tonawanda,0.0
+8/21/17 8:45 PM,Bajo Grande Refinery,0.0
+8/21/17 8:45 PM,Nu Star Savannah,0.0
+8/21/17 8:45 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 8:45 PM,MIT Jones Island,0.0
+8/21/17 8:45 PM,GCAC Mobile,0.0
+8/21/17 8:45 PM,Canadian Asphalt Industries,0.0
+8/21/17 8:45 PM,Shell Corunna,0.0
+8/21/17 8:45 PM,Sprague Providence,0.0
+8/21/17 9:00 PM,Apex Oil Chesapeake,0.0
+8/21/17 9:00 PM,Nu Star Piney Point,0.0
+8/21/17 9:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 9:00 PM,Nu Star Newport News,0.0
+8/21/17 9:00 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 9:00 PM,Bitumar Hamilton,0.0
+8/21/17 9:00 PM,Iko Industries Hamilton,0.0
+8/21/17 9:00 PM,McAsphalt Oshawa,0.0
+8/21/17 9:00 PM,McAsphalt Dartmouth,0.0
+8/21/17 9:00 PM,Suncor Montreal,0.0
+8/21/17 9:00 PM,Canterm Montreal,0.0
+8/21/17 9:00 PM,TME Montreal,0.0
+8/21/17 9:00 PM,Sprague Sorel-Tracy,0.0
+8/21/17 9:00 PM,Sterling Fuels Windsor,0.0
+8/21/17 9:00 PM,BP Whiting,0.0
+8/21/17 9:00 PM,AOS Chicago,0.0
+8/21/17 9:00 PM,Marathon Detroit,0.0
+8/21/17 9:00 PM,Suncor Sarnia,0.0
+8/21/17 9:00 PM,Peckham Bronx,0.0
+8/21/17 9:00 PM,Nu Star Bronx,0.0
+8/21/17 9:00 PM,Nu Star Albany,0.0
+8/21/17 9:00 PM,Peckham Albany,0.0
+8/21/17 9:00 PM,Gorman Albany,0.0
+8/21/17 9:00 PM,Pike Portsmouth,0.0
+8/21/17 9:00 PM,Aggregate Industries Boston,0.0
+8/21/17 9:00 PM,Nu Star Baltimore,0.0
+8/21/17 9:00 PM,Irving St. John,0.0
+8/21/17 9:00 PM,McAsphalt Hamilton,0.0
+8/21/17 9:00 PM,Nu Star Dumfries,0.0
+8/21/17 9:00 PM,Warner Mistersky,0.0
+8/21/17 9:00 PM,BP Toledo,0.0
+8/21/17 9:00 PM,BP Cleveland,0.0
+8/21/17 9:00 PM,Irving Botwood,0.0
+8/21/17 9:00 PM,Irving Stephenville,0.0
+8/21/17 9:00 PM,Irving Holyrood,0.0
+8/21/17 9:00 PM,Irving Searsport,0.0
+8/21/17 9:00 PM,Irving South Portland,0.0
+8/21/17 9:00 PM,Irving Newington,0.0
+8/21/17 9:00 PM,Irving New Haven,0.0
+8/21/17 9:00 PM,NOCO Tonawanda,0.0
+8/21/17 9:00 PM,Bajo Grande Refinery,0.0
+8/21/17 9:00 PM,Nu Star Savannah,0.0
+8/21/17 9:00 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 9:00 PM,MIT Jones Island,0.0
+8/21/17 9:00 PM,GCAC Mobile,0.0
+8/21/17 9:00 PM,Canadian Asphalt Industries,0.0
+8/21/17 9:00 PM,Shell Corunna,0.0
+8/21/17 9:00 PM,Sprague Providence,0.0
+8/21/17 9:15 PM,Apex Oil Chesapeake,0.0
+8/21/17 9:15 PM,Nu Star Piney Point,0.0
+8/21/17 9:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 9:15 PM,Nu Star Newport News,0.0
+8/21/17 9:15 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 9:15 PM,Bitumar Hamilton,0.0
+8/21/17 9:15 PM,Iko Industries Hamilton,0.0
+8/21/17 9:15 PM,McAsphalt Oshawa,0.0
+8/21/17 9:15 PM,McAsphalt Dartmouth,0.0
+8/21/17 9:15 PM,Suncor Montreal,0.0
+8/21/17 9:15 PM,Canterm Montreal,0.0
+8/21/17 9:15 PM,TME Montreal,0.0
+8/21/17 9:15 PM,Sprague Sorel-Tracy,0.0
+8/21/17 9:15 PM,Sterling Fuels Windsor,0.0
+8/21/17 9:15 PM,BP Whiting,0.0
+8/21/17 9:15 PM,AOS Chicago,0.0
+8/21/17 9:15 PM,Marathon Detroit,0.0
+8/21/17 9:15 PM,Suncor Sarnia,0.0
+8/21/17 9:15 PM,Peckham Bronx,0.0
+8/21/17 9:15 PM,Nu Star Bronx,0.0
+8/21/17 9:15 PM,Nu Star Albany,0.0
+8/21/17 9:15 PM,Peckham Albany,0.0
+8/21/17 9:15 PM,Gorman Albany,0.0
+8/21/17 9:15 PM,Pike Portsmouth,0.0
+8/21/17 9:15 PM,Aggregate Industries Boston,0.0
+8/21/17 9:15 PM,Nu Star Baltimore,0.0
+8/21/17 9:15 PM,Irving St. John,0.0
+8/21/17 9:15 PM,McAsphalt Hamilton,0.0
+8/21/17 9:15 PM,Nu Star Dumfries,0.0
+8/21/17 9:15 PM,Warner Mistersky,0.0
+8/21/17 9:15 PM,BP Toledo,0.0
+8/21/17 9:15 PM,BP Cleveland,0.0
+8/21/17 9:15 PM,Irving Botwood,0.0
+8/21/17 9:15 PM,Irving Stephenville,0.0
+8/21/17 9:15 PM,Irving Holyrood,0.0
+8/21/17 9:15 PM,Irving Searsport,0.0
+8/21/17 9:15 PM,Irving South Portland,0.0
+8/21/17 9:15 PM,Irving Newington,0.0
+8/21/17 9:15 PM,Irving New Haven,0.0
+8/21/17 9:15 PM,NOCO Tonawanda,0.0
+8/21/17 9:15 PM,Bajo Grande Refinery,0.0
+8/21/17 9:15 PM,Nu Star Savannah,0.0
+8/21/17 9:15 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 9:15 PM,MIT Jones Island,0.0
+8/21/17 9:15 PM,GCAC Mobile,0.0
+8/21/17 9:15 PM,Canadian Asphalt Industries,0.0
+8/21/17 9:15 PM,Shell Corunna,0.0
+8/21/17 9:15 PM,Sprague Providence,0.0
+8/21/17 9:30 PM,Apex Oil Chesapeake,0.0
+8/21/17 9:30 PM,Nu Star Piney Point,0.0
+8/21/17 9:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 9:30 PM,Nu Star Newport News,0.0
+8/21/17 9:30 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 9:30 PM,Bitumar Hamilton,0.0
+8/21/17 9:30 PM,Iko Industries Hamilton,0.0
+8/21/17 9:30 PM,McAsphalt Oshawa,0.0
+8/21/17 9:30 PM,McAsphalt Dartmouth,0.0
+8/21/17 9:30 PM,Suncor Montreal,0.0
+8/21/17 9:30 PM,Canterm Montreal,0.0
+8/21/17 9:30 PM,TME Montreal,0.0
+8/21/17 9:30 PM,Sprague Sorel-Tracy,0.0
+8/21/17 9:30 PM,Sterling Fuels Windsor,0.0
+8/21/17 9:30 PM,BP Whiting,0.0
+8/21/17 9:30 PM,AOS Chicago,0.0
+8/21/17 9:30 PM,Marathon Detroit,0.0
+8/21/17 9:30 PM,Suncor Sarnia,0.0
+8/21/17 9:30 PM,Peckham Bronx,0.0
+8/21/17 9:30 PM,Nu Star Bronx,0.0
+8/21/17 9:30 PM,Nu Star Albany,0.0
+8/21/17 9:30 PM,Peckham Albany,0.0
+8/21/17 9:30 PM,Gorman Albany,0.0
+8/21/17 9:30 PM,Pike Portsmouth,0.0
+8/21/17 9:30 PM,Aggregate Industries Boston,0.0
+8/21/17 9:30 PM,Nu Star Baltimore,0.0
+8/21/17 9:30 PM,Irving St. John,0.0
+8/21/17 9:30 PM,McAsphalt Hamilton,0.0
+8/21/17 9:30 PM,Nu Star Dumfries,0.0
+8/21/17 9:30 PM,Warner Mistersky,0.0
+8/21/17 9:30 PM,BP Toledo,0.0
+8/21/17 9:30 PM,BP Cleveland,0.0
+8/21/17 9:30 PM,Irving Botwood,0.0
+8/21/17 9:30 PM,Irving Stephenville,0.0
+8/21/17 9:30 PM,Irving Holyrood,0.0
+8/21/17 9:30 PM,Irving Searsport,0.0
+8/21/17 9:30 PM,Irving South Portland,0.0
+8/21/17 9:30 PM,Irving Newington,0.0
+8/21/17 9:30 PM,Irving New Haven,0.0
+8/21/17 9:30 PM,NOCO Tonawanda,0.0
+8/21/17 9:30 PM,Bajo Grande Refinery,0.0
+8/21/17 9:30 PM,Nu Star Savannah,0.0
+8/21/17 9:30 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 9:30 PM,MIT Jones Island,0.0
+8/21/17 9:30 PM,GCAC Mobile,0.0
+8/21/17 9:30 PM,Canadian Asphalt Industries,0.0
+8/21/17 9:30 PM,Shell Corunna,0.0
+8/21/17 9:30 PM,Sprague Providence,0.0
+8/21/17 9:45 PM,Apex Oil Chesapeake,0.0
+8/21/17 9:45 PM,Nu Star Piney Point,0.0
+8/21/17 9:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 9:45 PM,Nu Star Newport News,0.0
+8/21/17 9:45 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 9:45 PM,Bitumar Hamilton,0.0
+8/21/17 9:45 PM,Iko Industries Hamilton,0.0
+8/21/17 9:45 PM,McAsphalt Oshawa,0.0
+8/21/17 9:45 PM,McAsphalt Dartmouth,0.0
+8/21/17 9:45 PM,Suncor Montreal,0.0
+8/21/17 9:45 PM,Canterm Montreal,0.0
+8/21/17 9:45 PM,TME Montreal,0.0
+8/21/17 9:45 PM,Sprague Sorel-Tracy,0.0
+8/21/17 9:45 PM,Sterling Fuels Windsor,0.0
+8/21/17 9:45 PM,BP Whiting,0.0
+8/21/17 9:45 PM,AOS Chicago,0.0
+8/21/17 9:45 PM,Marathon Detroit,0.0
+8/21/17 9:45 PM,Suncor Sarnia,0.0
+8/21/17 9:45 PM,Peckham Bronx,0.0
+8/21/17 9:45 PM,Nu Star Bronx,0.0
+8/21/17 9:45 PM,Nu Star Albany,0.0
+8/21/17 9:45 PM,Peckham Albany,0.0
+8/21/17 9:45 PM,Gorman Albany,0.0
+8/21/17 9:45 PM,Pike Portsmouth,0.0
+8/21/17 9:45 PM,Aggregate Industries Boston,0.0
+8/21/17 9:45 PM,Nu Star Baltimore,0.0
+8/21/17 9:45 PM,Irving St. John,0.0
+8/21/17 9:45 PM,McAsphalt Hamilton,0.0
+8/21/17 9:45 PM,Nu Star Dumfries,0.0
+8/21/17 9:45 PM,Warner Mistersky,0.0
+8/21/17 9:45 PM,BP Toledo,0.0
+8/21/17 9:45 PM,BP Cleveland,0.0
+8/21/17 9:45 PM,Irving Botwood,0.0
+8/21/17 9:45 PM,Irving Stephenville,0.0
+8/21/17 9:45 PM,Irving Holyrood,0.0
+8/21/17 9:45 PM,Irving Searsport,0.0
+8/21/17 9:45 PM,Irving South Portland,0.0
+8/21/17 9:45 PM,Irving Newington,0.0
+8/21/17 9:45 PM,Irving New Haven,0.0
+8/21/17 9:45 PM,NOCO Tonawanda,0.0
+8/21/17 9:45 PM,Bajo Grande Refinery,0.0
+8/21/17 9:45 PM,Nu Star Savannah,0.0
+8/21/17 9:45 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 9:45 PM,MIT Jones Island,0.0
+8/21/17 9:45 PM,GCAC Mobile,0.0
+8/21/17 9:45 PM,Canadian Asphalt Industries,0.0
+8/21/17 9:45 PM,Shell Corunna,0.0
+8/21/17 9:45 PM,Sprague Providence,0.0
+8/21/17 10:00 PM,Apex Oil Chesapeake,0.0
+8/21/17 10:00 PM,Nu Star Piney Point,0.0
+8/21/17 10:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 10:00 PM,Nu Star Newport News,0.0
+8/21/17 10:00 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 10:00 PM,Bitumar Hamilton,0.0
+8/21/17 10:00 PM,Iko Industries Hamilton,0.0
+8/21/17 10:00 PM,McAsphalt Oshawa,0.0
+8/21/17 10:00 PM,McAsphalt Dartmouth,0.0
+8/21/17 10:00 PM,Suncor Montreal,0.0
+8/21/17 10:00 PM,Canterm Montreal,0.0
+8/21/17 10:00 PM,TME Montreal,0.0
+8/21/17 10:00 PM,Sprague Sorel-Tracy,0.0
+8/21/17 10:00 PM,Sterling Fuels Windsor,0.0
+8/21/17 10:00 PM,BP Whiting,0.0
+8/21/17 10:00 PM,AOS Chicago,0.0
+8/21/17 10:00 PM,Marathon Detroit,0.0
+8/21/17 10:00 PM,Suncor Sarnia,0.0
+8/21/17 10:00 PM,Peckham Bronx,0.0
+8/21/17 10:00 PM,Nu Star Bronx,0.0
+8/21/17 10:00 PM,Nu Star Albany,0.0
+8/21/17 10:00 PM,Peckham Albany,0.0
+8/21/17 10:00 PM,Gorman Albany,0.0
+8/21/17 10:00 PM,Pike Portsmouth,0.0
+8/21/17 10:00 PM,Aggregate Industries Boston,0.0
+8/21/17 10:00 PM,Nu Star Baltimore,0.0
+8/21/17 10:00 PM,Irving St. John,0.0
+8/21/17 10:00 PM,McAsphalt Hamilton,0.0
+8/21/17 10:00 PM,Nu Star Dumfries,0.0
+8/21/17 10:00 PM,Warner Mistersky,0.0
+8/21/17 10:00 PM,BP Toledo,0.0
+8/21/17 10:00 PM,BP Cleveland,0.0
+8/21/17 10:00 PM,Irving Botwood,0.0
+8/21/17 10:00 PM,Irving Stephenville,0.0
+8/21/17 10:00 PM,Irving Holyrood,0.0
+8/21/17 10:00 PM,Irving Searsport,0.0
+8/21/17 10:00 PM,Irving South Portland,0.0
+8/21/17 10:00 PM,Irving Newington,0.0
+8/21/17 10:00 PM,Irving New Haven,0.0
+8/21/17 10:00 PM,NOCO Tonawanda,0.0
+8/21/17 10:00 PM,Bajo Grande Refinery,0.0
+8/21/17 10:00 PM,Nu Star Savannah,0.0
+8/21/17 10:00 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 10:00 PM,MIT Jones Island,0.0
+8/21/17 10:00 PM,GCAC Mobile,0.0
+8/21/17 10:00 PM,Canadian Asphalt Industries,0.0
+8/21/17 10:00 PM,Shell Corunna,0.0
+8/21/17 10:00 PM,Sprague Providence,0.0
+8/21/17 10:15 PM,Apex Oil Chesapeake,0.0
+8/21/17 10:15 PM,Nu Star Piney Point,0.0
+8/21/17 10:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 10:15 PM,Nu Star Newport News,0.0
+8/21/17 10:15 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 10:15 PM,Bitumar Hamilton,0.0
+8/21/17 10:15 PM,Iko Industries Hamilton,0.0
+8/21/17 10:15 PM,McAsphalt Oshawa,0.0
+8/21/17 10:15 PM,McAsphalt Dartmouth,0.0
+8/21/17 10:15 PM,Suncor Montreal,0.0
+8/21/17 10:15 PM,Canterm Montreal,0.0
+8/21/17 10:15 PM,TME Montreal,0.0
+8/21/17 10:15 PM,Sprague Sorel-Tracy,0.0
+8/21/17 10:15 PM,Sterling Fuels Windsor,0.0
+8/21/17 10:15 PM,BP Whiting,0.0
+8/21/17 10:15 PM,AOS Chicago,0.0
+8/21/17 10:15 PM,Marathon Detroit,0.0
+8/21/17 10:15 PM,Suncor Sarnia,0.0
+8/21/17 10:15 PM,Peckham Bronx,0.0
+8/21/17 10:15 PM,Nu Star Bronx,0.0
+8/21/17 10:15 PM,Nu Star Albany,0.0
+8/21/17 10:15 PM,Peckham Albany,0.0
+8/21/17 10:15 PM,Gorman Albany,0.0
+8/21/17 10:15 PM,Pike Portsmouth,0.0
+8/21/17 10:15 PM,Aggregate Industries Boston,0.0
+8/21/17 10:15 PM,Nu Star Baltimore,0.0
+8/21/17 10:15 PM,Irving St. John,0.0
+8/21/17 10:15 PM,McAsphalt Hamilton,0.0
+8/21/17 10:15 PM,Nu Star Dumfries,0.0
+8/21/17 10:15 PM,Warner Mistersky,0.0
+8/21/17 10:15 PM,BP Toledo,0.0
+8/21/17 10:15 PM,BP Cleveland,0.0
+8/21/17 10:15 PM,Irving Botwood,0.0
+8/21/17 10:15 PM,Irving Stephenville,0.0
+8/21/17 10:15 PM,Irving Holyrood,0.0
+8/21/17 10:15 PM,Irving Searsport,0.0
+8/21/17 10:15 PM,Irving South Portland,0.0
+8/21/17 10:15 PM,Irving Newington,0.0
+8/21/17 10:15 PM,Irving New Haven,0.0
+8/21/17 10:15 PM,NOCO Tonawanda,0.0
+8/21/17 10:15 PM,Bajo Grande Refinery,0.0
+8/21/17 10:15 PM,Nu Star Savannah,0.0
+8/21/17 10:15 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 10:15 PM,MIT Jones Island,0.0
+8/21/17 10:15 PM,GCAC Mobile,0.0
+8/21/17 10:15 PM,Canadian Asphalt Industries,0.0
+8/21/17 10:15 PM,Shell Corunna,0.0
+8/21/17 10:15 PM,Sprague Providence,0.0
+8/21/17 10:30 PM,Apex Oil Chesapeake,0.0
+8/21/17 10:30 PM,Nu Star Piney Point,0.0
+8/21/17 10:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 10:30 PM,Nu Star Newport News,0.0
+8/21/17 10:30 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 10:30 PM,Bitumar Hamilton,0.0
+8/21/17 10:30 PM,Iko Industries Hamilton,0.0
+8/21/17 10:30 PM,McAsphalt Oshawa,0.0
+8/21/17 10:30 PM,McAsphalt Dartmouth,0.0
+8/21/17 10:30 PM,Suncor Montreal,0.0
+8/21/17 10:30 PM,Canterm Montreal,0.0
+8/21/17 10:30 PM,TME Montreal,0.0
+8/21/17 10:30 PM,Sprague Sorel-Tracy,0.0
+8/21/17 10:30 PM,Sterling Fuels Windsor,0.0
+8/21/17 10:30 PM,BP Whiting,0.0
+8/21/17 10:30 PM,AOS Chicago,0.0
+8/21/17 10:30 PM,Marathon Detroit,0.0
+8/21/17 10:30 PM,Suncor Sarnia,0.0
+8/21/17 10:30 PM,Peckham Bronx,0.0
+8/21/17 10:30 PM,Nu Star Bronx,0.0
+8/21/17 10:30 PM,Nu Star Albany,0.0
+8/21/17 10:30 PM,Peckham Albany,0.0
+8/21/17 10:30 PM,Gorman Albany,0.0
+8/21/17 10:30 PM,Pike Portsmouth,0.0
+8/21/17 10:30 PM,Aggregate Industries Boston,0.0
+8/21/17 10:30 PM,Nu Star Baltimore,0.0
+8/21/17 10:30 PM,Irving St. John,0.0
+8/21/17 10:30 PM,McAsphalt Hamilton,0.0
+8/21/17 10:30 PM,Nu Star Dumfries,0.0
+8/21/17 10:30 PM,Warner Mistersky,0.0
+8/21/17 10:30 PM,BP Toledo,0.0
+8/21/17 10:30 PM,BP Cleveland,0.0
+8/21/17 10:30 PM,Irving Botwood,0.0
+8/21/17 10:30 PM,Irving Stephenville,0.0
+8/21/17 10:30 PM,Irving Holyrood,0.0
+8/21/17 10:30 PM,Irving Searsport,0.0
+8/21/17 10:30 PM,Irving South Portland,0.0
+8/21/17 10:30 PM,Irving Newington,0.0
+8/21/17 10:30 PM,Irving New Haven,0.0
+8/21/17 10:30 PM,NOCO Tonawanda,0.0
+8/21/17 10:30 PM,Bajo Grande Refinery,0.0
+8/21/17 10:30 PM,Nu Star Savannah,0.0
+8/21/17 10:30 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 10:30 PM,MIT Jones Island,0.0
+8/21/17 10:30 PM,GCAC Mobile,0.0
+8/21/17 10:30 PM,Canadian Asphalt Industries,0.0
+8/21/17 10:30 PM,Shell Corunna,0.0
+8/21/17 10:30 PM,Sprague Providence,0.0
+8/21/17 10:45 PM,Apex Oil Chesapeake,0.0
+8/21/17 10:45 PM,Nu Star Piney Point,0.0
+8/21/17 10:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 10:45 PM,Nu Star Newport News,0.0
+8/21/17 10:45 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 10:45 PM,Bitumar Hamilton,0.0
+8/21/17 10:45 PM,Iko Industries Hamilton,0.0
+8/21/17 10:45 PM,McAsphalt Oshawa,0.0
+8/21/17 10:45 PM,McAsphalt Dartmouth,0.0
+8/21/17 10:45 PM,Suncor Montreal,0.0
+8/21/17 10:45 PM,Canterm Montreal,0.0
+8/21/17 10:45 PM,TME Montreal,0.0
+8/21/17 10:45 PM,Sprague Sorel-Tracy,0.0
+8/21/17 10:45 PM,Sterling Fuels Windsor,0.0
+8/21/17 10:45 PM,BP Whiting,0.0
+8/21/17 10:45 PM,AOS Chicago,0.0
+8/21/17 10:45 PM,Marathon Detroit,0.0
+8/21/17 10:45 PM,Suncor Sarnia,0.0
+8/21/17 10:45 PM,Peckham Bronx,0.0
+8/21/17 10:45 PM,Nu Star Bronx,0.0
+8/21/17 10:45 PM,Nu Star Albany,0.0
+8/21/17 10:45 PM,Peckham Albany,0.0
+8/21/17 10:45 PM,Gorman Albany,0.0
+8/21/17 10:45 PM,Pike Portsmouth,0.0
+8/21/17 10:45 PM,Aggregate Industries Boston,0.0
+8/21/17 10:45 PM,Nu Star Baltimore,0.0
+8/21/17 10:45 PM,Irving St. John,0.0
+8/21/17 10:45 PM,McAsphalt Hamilton,0.0
+8/21/17 10:45 PM,Nu Star Dumfries,0.0
+8/21/17 10:45 PM,Warner Mistersky,0.0
+8/21/17 10:45 PM,BP Toledo,0.0
+8/21/17 10:45 PM,BP Cleveland,0.0
+8/21/17 10:45 PM,Irving Botwood,0.0
+8/21/17 10:45 PM,Irving Stephenville,0.0
+8/21/17 10:45 PM,Irving Holyrood,0.0
+8/21/17 10:45 PM,Irving Searsport,0.0
+8/21/17 10:45 PM,Irving South Portland,0.0
+8/21/17 10:45 PM,Irving Newington,0.0
+8/21/17 10:45 PM,Irving New Haven,0.0
+8/21/17 10:45 PM,NOCO Tonawanda,0.0
+8/21/17 10:45 PM,Bajo Grande Refinery,0.0
+8/21/17 10:45 PM,Nu Star Savannah,0.0
+8/21/17 10:45 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 10:45 PM,MIT Jones Island,0.0
+8/21/17 10:45 PM,GCAC Mobile,0.0
+8/21/17 10:45 PM,Canadian Asphalt Industries,0.0
+8/21/17 10:45 PM,Shell Corunna,0.0
+8/21/17 10:45 PM,Sprague Providence,0.0
+8/21/17 11:00 PM,Apex Oil Chesapeake,0.0
+8/21/17 11:00 PM,Nu Star Piney Point,0.0
+8/21/17 11:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 11:00 PM,Nu Star Newport News,0.0
+8/21/17 11:00 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 11:00 PM,Bitumar Hamilton,0.0
+8/21/17 11:00 PM,Iko Industries Hamilton,0.0
+8/21/17 11:00 PM,McAsphalt Oshawa,0.0
+8/21/17 11:00 PM,McAsphalt Dartmouth,0.0
+8/21/17 11:00 PM,Suncor Montreal,0.0
+8/21/17 11:00 PM,Canterm Montreal,0.0
+8/21/17 11:00 PM,TME Montreal,0.0
+8/21/17 11:00 PM,Sprague Sorel-Tracy,0.0
+8/21/17 11:00 PM,Sterling Fuels Windsor,0.0
+8/21/17 11:00 PM,BP Whiting,0.0
+8/21/17 11:00 PM,AOS Chicago,0.0
+8/21/17 11:00 PM,Marathon Detroit,0.0
+8/21/17 11:00 PM,Suncor Sarnia,0.0
+8/21/17 11:00 PM,Peckham Bronx,0.0
+8/21/17 11:00 PM,Nu Star Bronx,0.0
+8/21/17 11:00 PM,Nu Star Albany,0.0
+8/21/17 11:00 PM,Peckham Albany,0.0
+8/21/17 11:00 PM,Gorman Albany,0.0
+8/21/17 11:00 PM,Pike Portsmouth,0.0
+8/21/17 11:00 PM,Aggregate Industries Boston,0.0
+8/21/17 11:00 PM,Nu Star Baltimore,0.0
+8/21/17 11:00 PM,Irving St. John,0.0
+8/21/17 11:00 PM,McAsphalt Hamilton,0.0
+8/21/17 11:00 PM,Nu Star Dumfries,0.0
+8/21/17 11:00 PM,Warner Mistersky,0.0
+8/21/17 11:00 PM,BP Toledo,0.0
+8/21/17 11:00 PM,BP Cleveland,0.0
+8/21/17 11:00 PM,Irving Botwood,0.0
+8/21/17 11:00 PM,Irving Stephenville,0.0
+8/21/17 11:00 PM,Irving Holyrood,0.0
+8/21/17 11:00 PM,Irving Searsport,0.0
+8/21/17 11:00 PM,Irving South Portland,0.0
+8/21/17 11:00 PM,Irving Newington,0.0
+8/21/17 11:00 PM,Irving New Haven,0.0
+8/21/17 11:00 PM,NOCO Tonawanda,0.0
+8/21/17 11:00 PM,Bajo Grande Refinery,0.0
+8/21/17 11:00 PM,Nu Star Savannah,0.0
+8/21/17 11:00 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 11:00 PM,MIT Jones Island,0.0
+8/21/17 11:00 PM,GCAC Mobile,0.0
+8/21/17 11:00 PM,Canadian Asphalt Industries,0.0
+8/21/17 11:00 PM,Shell Corunna,0.0
+8/21/17 11:00 PM,Sprague Providence,0.0
+8/21/17 11:15 PM,Apex Oil Chesapeake,0.0
+8/21/17 11:15 PM,Nu Star Piney Point,0.0
+8/21/17 11:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 11:15 PM,Nu Star Newport News,0.0
+8/21/17 11:15 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 11:15 PM,Bitumar Hamilton,0.0
+8/21/17 11:15 PM,Iko Industries Hamilton,0.0
+8/21/17 11:15 PM,McAsphalt Oshawa,0.0
+8/21/17 11:15 PM,McAsphalt Dartmouth,0.0
+8/21/17 11:15 PM,Suncor Montreal,0.0
+8/21/17 11:15 PM,Canterm Montreal,0.0
+8/21/17 11:15 PM,TME Montreal,0.0
+8/21/17 11:15 PM,Sprague Sorel-Tracy,0.0
+8/21/17 11:15 PM,Sterling Fuels Windsor,0.0
+8/21/17 11:15 PM,BP Whiting,0.0
+8/21/17 11:15 PM,AOS Chicago,0.0
+8/21/17 11:15 PM,Marathon Detroit,0.0
+8/21/17 11:15 PM,Suncor Sarnia,0.0
+8/21/17 11:15 PM,Peckham Bronx,0.0
+8/21/17 11:15 PM,Nu Star Bronx,0.0
+8/21/17 11:15 PM,Nu Star Albany,0.0
+8/21/17 11:15 PM,Peckham Albany,0.0
+8/21/17 11:15 PM,Gorman Albany,0.0
+8/21/17 11:15 PM,Pike Portsmouth,0.0
+8/21/17 11:15 PM,Aggregate Industries Boston,0.0
+8/21/17 11:15 PM,Nu Star Baltimore,0.0
+8/21/17 11:15 PM,Irving St. John,0.0
+8/21/17 11:15 PM,McAsphalt Hamilton,0.0
+8/21/17 11:15 PM,Nu Star Dumfries,0.0
+8/21/17 11:15 PM,Warner Mistersky,0.0
+8/21/17 11:15 PM,BP Toledo,0.0
+8/21/17 11:15 PM,BP Cleveland,0.0
+8/21/17 11:15 PM,Irving Botwood,0.0
+8/21/17 11:15 PM,Irving Stephenville,0.0
+8/21/17 11:15 PM,Irving Holyrood,0.0
+8/21/17 11:15 PM,Irving Searsport,0.0
+8/21/17 11:15 PM,Irving South Portland,0.0
+8/21/17 11:15 PM,Irving Newington,0.0
+8/21/17 11:15 PM,Irving New Haven,0.0
+8/21/17 11:15 PM,NOCO Tonawanda,0.0
+8/21/17 11:15 PM,Bajo Grande Refinery,0.0
+8/21/17 11:15 PM,Nu Star Savannah,0.0
+8/21/17 11:15 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 11:15 PM,MIT Jones Island,0.0
+8/21/17 11:15 PM,GCAC Mobile,0.0
+8/21/17 11:15 PM,Canadian Asphalt Industries,0.0
+8/21/17 11:15 PM,Shell Corunna,0.0
+8/21/17 11:15 PM,Sprague Providence,0.0
+8/21/17 11:30 PM,Apex Oil Chesapeake,0.0
+8/21/17 11:30 PM,Nu Star Piney Point,0.0
+8/21/17 11:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 11:30 PM,Nu Star Newport News,0.0
+8/21/17 11:30 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 11:30 PM,Bitumar Hamilton,0.0
+8/21/17 11:30 PM,Iko Industries Hamilton,0.0
+8/21/17 11:30 PM,McAsphalt Oshawa,0.0
+8/21/17 11:30 PM,McAsphalt Dartmouth,0.0
+8/21/17 11:30 PM,Suncor Montreal,0.0
+8/21/17 11:30 PM,Canterm Montreal,0.0
+8/21/17 11:30 PM,TME Montreal,0.0
+8/21/17 11:30 PM,Sprague Sorel-Tracy,0.0
+8/21/17 11:30 PM,Sterling Fuels Windsor,0.0
+8/21/17 11:30 PM,BP Whiting,0.0
+8/21/17 11:30 PM,AOS Chicago,0.0
+8/21/17 11:30 PM,Marathon Detroit,0.0
+8/21/17 11:30 PM,Suncor Sarnia,0.0
+8/21/17 11:30 PM,Peckham Bronx,0.0
+8/21/17 11:30 PM,Nu Star Bronx,0.0
+8/21/17 11:30 PM,Nu Star Albany,0.0
+8/21/17 11:30 PM,Peckham Albany,0.0
+8/21/17 11:30 PM,Gorman Albany,0.0
+8/21/17 11:30 PM,Pike Portsmouth,0.0
+8/21/17 11:30 PM,Aggregate Industries Boston,0.0
+8/21/17 11:30 PM,Nu Star Baltimore,0.0
+8/21/17 11:30 PM,Irving St. John,0.0
+8/21/17 11:30 PM,McAsphalt Hamilton,0.0
+8/21/17 11:30 PM,Nu Star Dumfries,0.0
+8/21/17 11:30 PM,Warner Mistersky,0.0
+8/21/17 11:30 PM,BP Toledo,0.0
+8/21/17 11:30 PM,BP Cleveland,0.0
+8/21/17 11:30 PM,Irving Botwood,0.0
+8/21/17 11:30 PM,Irving Stephenville,0.0
+8/21/17 11:30 PM,Irving Holyrood,0.0
+8/21/17 11:30 PM,Irving Searsport,0.0
+8/21/17 11:30 PM,Irving South Portland,0.0
+8/21/17 11:30 PM,Irving Newington,0.0
+8/21/17 11:30 PM,Irving New Haven,0.0
+8/21/17 11:30 PM,NOCO Tonawanda,0.0
+8/21/17 11:30 PM,Bajo Grande Refinery,0.0
+8/21/17 11:30 PM,Nu Star Savannah,0.0
+8/21/17 11:30 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 11:30 PM,MIT Jones Island,0.0
+8/21/17 11:30 PM,GCAC Mobile,0.0
+8/21/17 11:30 PM,Canadian Asphalt Industries,0.0
+8/21/17 11:30 PM,Shell Corunna,0.0
+8/21/17 11:30 PM,Sprague Providence,0.0
+8/21/17 11:45 PM,Apex Oil Chesapeake,0.0
+8/21/17 11:45 PM,Nu Star Piney Point,0.0
+8/21/17 11:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/21/17 11:45 PM,Nu Star Newport News,0.0
+8/21/17 11:45 PM,Apex Oil Baltimore (Valero),0.0
+8/21/17 11:45 PM,Bitumar Hamilton,0.0
+8/21/17 11:45 PM,Iko Industries Hamilton,0.0
+8/21/17 11:45 PM,McAsphalt Oshawa,0.0
+8/21/17 11:45 PM,McAsphalt Dartmouth,0.0
+8/21/17 11:45 PM,Suncor Montreal,0.0
+8/21/17 11:45 PM,Canterm Montreal,0.0
+8/21/17 11:45 PM,TME Montreal,0.0
+8/21/17 11:45 PM,Sprague Sorel-Tracy,0.0
+8/21/17 11:45 PM,Sterling Fuels Windsor,0.0
+8/21/17 11:45 PM,BP Whiting,0.0
+8/21/17 11:45 PM,AOS Chicago,0.0
+8/21/17 11:45 PM,Marathon Detroit,0.0
+8/21/17 11:45 PM,Suncor Sarnia,0.0
+8/21/17 11:45 PM,Peckham Bronx,0.0
+8/21/17 11:45 PM,Nu Star Bronx,0.0
+8/21/17 11:45 PM,Nu Star Albany,0.0
+8/21/17 11:45 PM,Peckham Albany,0.0
+8/21/17 11:45 PM,Gorman Albany,0.0
+8/21/17 11:45 PM,Pike Portsmouth,0.0
+8/21/17 11:45 PM,Aggregate Industries Boston,0.0
+8/21/17 11:45 PM,Nu Star Baltimore,0.0
+8/21/17 11:45 PM,Irving St. John,0.0
+8/21/17 11:45 PM,McAsphalt Hamilton,0.0
+8/21/17 11:45 PM,Nu Star Dumfries,0.0
+8/21/17 11:45 PM,Warner Mistersky,0.0
+8/21/17 11:45 PM,BP Toledo,0.0
+8/21/17 11:45 PM,BP Cleveland,0.0
+8/21/17 11:45 PM,Irving Botwood,0.0
+8/21/17 11:45 PM,Irving Stephenville,0.0
+8/21/17 11:45 PM,Irving Holyrood,0.0
+8/21/17 11:45 PM,Irving Searsport,0.0
+8/21/17 11:45 PM,Irving South Portland,0.0
+8/21/17 11:45 PM,Irving Newington,0.0
+8/21/17 11:45 PM,Irving New Haven,0.0
+8/21/17 11:45 PM,NOCO Tonawanda,0.0
+8/21/17 11:45 PM,Bajo Grande Refinery,0.0
+8/21/17 11:45 PM,Nu Star Savannah,0.0
+8/21/17 11:45 PM,Payne & Dolan Milwaukee,0.0
+8/21/17 11:45 PM,MIT Jones Island,0.0
+8/21/17 11:45 PM,GCAC Mobile,0.0
+8/21/17 11:45 PM,Canadian Asphalt Industries,0.0
+8/21/17 11:45 PM,Shell Corunna,0.0
+8/21/17 11:45 PM,Sprague Providence,0.0
+8/22/17 11:00 AM,Apex Oil Chesapeake,0.0
+8/22/17 11:00 AM,Nu Star Piney Point,0.0
+8/22/17 11:00 AM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 11:00 AM,Nu Star Newport News,0.0
+8/22/17 11:00 AM,Apex Oil Baltimore (Valero),0.0
+8/22/17 11:00 AM,Bitumar Hamilton,0.0
+8/22/17 11:00 AM,Iko Industries Hamilton,0.0
+8/22/17 11:00 AM,McAsphalt Oshawa,0.0
+8/22/17 11:00 AM,McAsphalt Dartmouth,0.0
+8/22/17 11:00 AM,Suncor Montreal,0.0
+8/22/17 11:00 AM,Canterm Montreal,0.0
+8/22/17 11:00 AM,TME Montreal,0.0
+8/22/17 11:00 AM,Sprague Sorel-Tracy,0.0
+8/22/17 11:00 AM,Sterling Fuels Windsor,0.0
+8/22/17 11:00 AM,BP Whiting,0.0
+8/22/17 11:00 AM,AOS Chicago,0.0
+8/22/17 11:00 AM,Marathon Detroit,0.0
+8/22/17 11:00 AM,Suncor Sarnia,0.0
+8/22/17 11:00 AM,Peckham Bronx,0.0
+8/22/17 11:00 AM,Nu Star Bronx,0.0
+8/22/17 11:00 AM,Nu Star Albany,0.0
+8/22/17 11:00 AM,Peckham Albany,0.0
+8/22/17 11:00 AM,Gorman Albany,0.0
+8/22/17 11:00 AM,Pike Portsmouth,0.0
+8/22/17 11:00 AM,Aggregate Industries Boston,0.0
+8/22/17 11:00 AM,Nu Star Baltimore,0.0
+8/22/17 11:00 AM,Irving St. John,0.0
+8/22/17 11:00 AM,McAsphalt Hamilton,0.0
+8/22/17 11:00 AM,Nu Star Dumfries,0.0
+8/22/17 11:00 AM,Warner Mistersky,0.0
+8/22/17 11:00 AM,BP Toledo,0.0
+8/22/17 11:00 AM,BP Cleveland,0.0
+8/22/17 11:00 AM,Irving Botwood,0.0
+8/22/17 11:00 AM,Irving Stephenville,0.0
+8/22/17 11:00 AM,Irving Holyrood,0.0
+8/22/17 11:00 AM,Irving Searsport,0.0
+8/22/17 11:00 AM,Irving South Portland,0.0
+8/22/17 11:00 AM,Irving Newington,0.0
+8/22/17 11:00 AM,Irving New Haven,0.0
+8/22/17 11:00 AM,NOCO Tonawanda,0.0
+8/22/17 11:00 AM,Bajo Grande Refinery,0.0
+8/22/17 11:00 AM,Nu Star Savannah,0.0
+8/22/17 11:00 AM,Payne & Dolan Milwaukee,0.0
+8/22/17 11:00 AM,MIT Jones Island,0.0
+8/22/17 11:00 AM,GCAC Mobile,0.0
+8/22/17 11:00 AM,Canadian Asphalt Industries,0.0
+8/22/17 11:00 AM,Shell Corunna,0.0
+8/22/17 11:00 AM,Sprague Providence,0.0
+8/22/17 11:15 AM,Apex Oil Chesapeake,0.0
+8/22/17 11:15 AM,Nu Star Piney Point,0.0
+8/22/17 11:15 AM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 11:15 AM,Nu Star Newport News,0.0
+8/22/17 11:15 AM,Apex Oil Baltimore (Valero),0.0
+8/22/17 11:15 AM,Bitumar Hamilton,0.0
+8/22/17 11:15 AM,Iko Industries Hamilton,0.0
+8/22/17 11:15 AM,McAsphalt Oshawa,0.0
+8/22/17 11:15 AM,McAsphalt Dartmouth,0.0
+8/22/17 11:15 AM,Suncor Montreal,0.0
+8/22/17 11:15 AM,Canterm Montreal,0.0
+8/22/17 11:15 AM,TME Montreal,0.0
+8/22/17 11:15 AM,Sprague Sorel-Tracy,0.0
+8/22/17 11:15 AM,Sterling Fuels Windsor,0.0
+8/22/17 11:15 AM,BP Whiting,0.0
+8/22/17 11:15 AM,AOS Chicago,0.0
+8/22/17 11:15 AM,Marathon Detroit,0.0
+8/22/17 11:15 AM,Suncor Sarnia,0.0
+8/22/17 11:15 AM,Peckham Bronx,0.0
+8/22/17 11:15 AM,Nu Star Bronx,0.0
+8/22/17 11:15 AM,Nu Star Albany,0.0
+8/22/17 11:15 AM,Peckham Albany,0.0
+8/22/17 11:15 AM,Gorman Albany,0.0
+8/22/17 11:15 AM,Pike Portsmouth,0.0
+8/22/17 11:15 AM,Aggregate Industries Boston,0.0
+8/22/17 11:15 AM,Nu Star Baltimore,0.0
+8/22/17 11:15 AM,Irving St. John,0.0
+8/22/17 11:15 AM,McAsphalt Hamilton,0.0
+8/22/17 11:15 AM,Nu Star Dumfries,0.0
+8/22/17 11:15 AM,Warner Mistersky,0.0
+8/22/17 11:15 AM,BP Toledo,0.0
+8/22/17 11:15 AM,BP Cleveland,0.0
+8/22/17 11:15 AM,Irving Botwood,0.0
+8/22/17 11:15 AM,Irving Stephenville,0.0
+8/22/17 11:15 AM,Irving Holyrood,0.0
+8/22/17 11:15 AM,Irving Searsport,0.0
+8/22/17 11:15 AM,Irving South Portland,0.0
+8/22/17 11:15 AM,Irving Newington,0.0
+8/22/17 11:15 AM,Irving New Haven,0.0
+8/22/17 11:15 AM,NOCO Tonawanda,0.0
+8/22/17 11:15 AM,Bajo Grande Refinery,0.0
+8/22/17 11:15 AM,Nu Star Savannah,0.0
+8/22/17 11:15 AM,Payne & Dolan Milwaukee,0.0
+8/22/17 11:15 AM,MIT Jones Island,0.0
+8/22/17 11:15 AM,GCAC Mobile,0.0
+8/22/17 11:15 AM,Canadian Asphalt Industries,0.0
+8/22/17 11:15 AM,Shell Corunna,0.0
+8/22/17 11:15 AM,Sprague Providence,0.0
+8/22/17 11:30 AM,Apex Oil Chesapeake,0.0
+8/22/17 11:30 AM,Nu Star Piney Point,0.0
+8/22/17 11:30 AM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 11:30 AM,Nu Star Newport News,0.0
+8/22/17 11:30 AM,Apex Oil Baltimore (Valero),0.0
+8/22/17 11:30 AM,Bitumar Hamilton,0.0
+8/22/17 11:30 AM,Iko Industries Hamilton,0.0
+8/22/17 11:30 AM,McAsphalt Oshawa,0.0
+8/22/17 11:30 AM,McAsphalt Dartmouth,0.0
+8/22/17 11:30 AM,Suncor Montreal,0.0
+8/22/17 11:30 AM,Canterm Montreal,0.0
+8/22/17 11:30 AM,TME Montreal,0.0
+8/22/17 11:30 AM,Sprague Sorel-Tracy,0.0
+8/22/17 11:30 AM,Sterling Fuels Windsor,0.0
+8/22/17 11:30 AM,BP Whiting,0.0
+8/22/17 11:30 AM,AOS Chicago,0.0
+8/22/17 11:30 AM,Marathon Detroit,0.0
+8/22/17 11:30 AM,Suncor Sarnia,0.0
+8/22/17 11:30 AM,Peckham Bronx,0.0
+8/22/17 11:30 AM,Nu Star Bronx,0.0
+8/22/17 11:30 AM,Nu Star Albany,0.0
+8/22/17 11:30 AM,Peckham Albany,0.0
+8/22/17 11:30 AM,Gorman Albany,0.0
+8/22/17 11:30 AM,Pike Portsmouth,0.0
+8/22/17 11:30 AM,Aggregate Industries Boston,0.0
+8/22/17 11:30 AM,Nu Star Baltimore,0.0
+8/22/17 11:30 AM,Irving St. John,0.0
+8/22/17 11:30 AM,McAsphalt Hamilton,0.0
+8/22/17 11:30 AM,Nu Star Dumfries,0.0
+8/22/17 11:30 AM,Warner Mistersky,0.0
+8/22/17 11:30 AM,BP Toledo,0.0
+8/22/17 11:30 AM,BP Cleveland,0.0
+8/22/17 11:30 AM,Irving Botwood,0.0
+8/22/17 11:30 AM,Irving Stephenville,0.0
+8/22/17 11:30 AM,Irving Holyrood,0.0
+8/22/17 11:30 AM,Irving Searsport,0.0
+8/22/17 11:30 AM,Irving South Portland,0.0
+8/22/17 11:30 AM,Irving Newington,0.0
+8/22/17 11:30 AM,Irving New Haven,0.0
+8/22/17 11:30 AM,NOCO Tonawanda,0.0
+8/22/17 11:30 AM,Bajo Grande Refinery,0.0
+8/22/17 11:30 AM,Nu Star Savannah,0.0
+8/22/17 11:30 AM,Payne & Dolan Milwaukee,0.0
+8/22/17 11:30 AM,MIT Jones Island,0.0
+8/22/17 11:30 AM,GCAC Mobile,0.0
+8/22/17 11:30 AM,Canadian Asphalt Industries,0.0
+8/22/17 11:30 AM,Shell Corunna,0.0
+8/22/17 11:30 AM,Sprague Providence,0.0
+8/22/17 11:45 AM,Apex Oil Chesapeake,0.0
+8/22/17 11:45 AM,Nu Star Piney Point,0.0
+8/22/17 11:45 AM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 11:45 AM,Nu Star Newport News,0.0
+8/22/17 11:45 AM,Apex Oil Baltimore (Valero),0.0
+8/22/17 11:45 AM,Bitumar Hamilton,0.0
+8/22/17 11:45 AM,Iko Industries Hamilton,0.0
+8/22/17 11:45 AM,McAsphalt Oshawa,0.0
+8/22/17 11:45 AM,McAsphalt Dartmouth,0.0
+8/22/17 11:45 AM,Suncor Montreal,0.0
+8/22/17 11:45 AM,Canterm Montreal,0.0
+8/22/17 11:45 AM,TME Montreal,0.0
+8/22/17 11:45 AM,Sprague Sorel-Tracy,0.0
+8/22/17 11:45 AM,Sterling Fuels Windsor,0.0
+8/22/17 11:45 AM,BP Whiting,0.0
+8/22/17 11:45 AM,AOS Chicago,0.0
+8/22/17 11:45 AM,Marathon Detroit,0.0
+8/22/17 11:45 AM,Suncor Sarnia,0.0
+8/22/17 11:45 AM,Peckham Bronx,0.0
+8/22/17 11:45 AM,Nu Star Bronx,0.0
+8/22/17 11:45 AM,Nu Star Albany,0.0
+8/22/17 11:45 AM,Peckham Albany,0.0
+8/22/17 11:45 AM,Gorman Albany,0.0
+8/22/17 11:45 AM,Pike Portsmouth,0.0
+8/22/17 11:45 AM,Aggregate Industries Boston,0.0
+8/22/17 11:45 AM,Nu Star Baltimore,0.0
+8/22/17 11:45 AM,Irving St. John,0.0
+8/22/17 11:45 AM,McAsphalt Hamilton,0.0
+8/22/17 11:45 AM,Nu Star Dumfries,0.0
+8/22/17 11:45 AM,Warner Mistersky,0.0
+8/22/17 11:45 AM,BP Toledo,0.0
+8/22/17 11:45 AM,BP Cleveland,0.0
+8/22/17 11:45 AM,Irving Botwood,0.0
+8/22/17 11:45 AM,Irving Stephenville,0.0
+8/22/17 11:45 AM,Irving Holyrood,0.0
+8/22/17 11:45 AM,Irving Searsport,0.0
+8/22/17 11:45 AM,Irving South Portland,0.0
+8/22/17 11:45 AM,Irving Newington,0.0
+8/22/17 11:45 AM,Irving New Haven,0.0
+8/22/17 11:45 AM,NOCO Tonawanda,0.0
+8/22/17 11:45 AM,Bajo Grande Refinery,0.0
+8/22/17 11:45 AM,Nu Star Savannah,0.0
+8/22/17 11:45 AM,Payne & Dolan Milwaukee,0.0
+8/22/17 11:45 AM,MIT Jones Island,0.0
+8/22/17 11:45 AM,GCAC Mobile,0.0
+8/22/17 11:45 AM,Canadian Asphalt Industries,0.0
+8/22/17 11:45 AM,Shell Corunna,0.0
+8/22/17 11:45 AM,Sprague Providence,0.0
+8/22/17 12:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 12:15 PM,Nu Star Piney Point,0.0
+8/22/17 12:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 12:15 PM,Nu Star Newport News,0.0
+8/22/17 12:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 12:15 PM,Bitumar Hamilton,0.0
+8/22/17 12:15 PM,Iko Industries Hamilton,0.0
+8/22/17 12:15 PM,McAsphalt Oshawa,0.0
+8/22/17 12:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 12:15 PM,Suncor Montreal,0.0
+8/22/17 12:15 PM,Canterm Montreal,0.0
+8/22/17 12:15 PM,TME Montreal,0.0
+8/22/17 12:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 12:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 12:15 PM,BP Whiting,0.0
+8/22/17 12:15 PM,AOS Chicago,0.0
+8/22/17 12:15 PM,Marathon Detroit,0.0
+8/22/17 12:15 PM,Suncor Sarnia,0.0
+8/22/17 12:15 PM,Peckham Bronx,0.0
+8/22/17 12:15 PM,Nu Star Bronx,0.0
+8/22/17 12:15 PM,Nu Star Albany,0.0
+8/22/17 12:15 PM,Peckham Albany,0.0
+8/22/17 12:15 PM,Gorman Albany,0.0
+8/22/17 12:15 PM,Pike Portsmouth,0.0
+8/22/17 12:15 PM,Aggregate Industries Boston,0.0
+8/22/17 12:15 PM,Nu Star Baltimore,0.0
+8/22/17 12:15 PM,Irving St. John,0.0
+8/22/17 12:15 PM,McAsphalt Hamilton,0.0
+8/22/17 12:15 PM,Nu Star Dumfries,0.0
+8/22/17 12:15 PM,Warner Mistersky,0.0
+8/22/17 12:15 PM,BP Toledo,0.0
+8/22/17 12:15 PM,BP Cleveland,0.0
+8/22/17 12:15 PM,Irving Botwood,0.0
+8/22/17 12:15 PM,Irving Stephenville,0.0
+8/22/17 12:15 PM,Irving Holyrood,0.0
+8/22/17 12:15 PM,Irving Searsport,0.0
+8/22/17 12:15 PM,Irving South Portland,0.0
+8/22/17 12:15 PM,Irving Newington,0.0
+8/22/17 12:15 PM,Irving New Haven,0.0
+8/22/17 12:15 PM,NOCO Tonawanda,0.0
+8/22/17 12:15 PM,Bajo Grande Refinery,0.0
+8/22/17 12:15 PM,Nu Star Savannah,0.0
+8/22/17 12:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 12:15 PM,MIT Jones Island,0.0
+8/22/17 12:15 PM,GCAC Mobile,0.0
+8/22/17 12:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 12:15 PM,Shell Corunna,0.0
+8/22/17 12:15 PM,Sprague Providence,0.0
+8/22/17 12:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 12:30 PM,Nu Star Piney Point,0.0
+8/22/17 12:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 12:30 PM,Nu Star Newport News,0.0
+8/22/17 12:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 12:30 PM,Bitumar Hamilton,0.0
+8/22/17 12:30 PM,Iko Industries Hamilton,0.0
+8/22/17 12:30 PM,McAsphalt Oshawa,0.0
+8/22/17 12:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 12:30 PM,Suncor Montreal,0.0
+8/22/17 12:30 PM,Canterm Montreal,0.0
+8/22/17 12:30 PM,TME Montreal,0.0
+8/22/17 12:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 12:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 12:30 PM,BP Whiting,0.0
+8/22/17 12:30 PM,AOS Chicago,0.0
+8/22/17 12:30 PM,Marathon Detroit,0.0
+8/22/17 12:30 PM,Suncor Sarnia,0.0
+8/22/17 12:30 PM,Peckham Bronx,0.0
+8/22/17 12:30 PM,Nu Star Bronx,0.0
+8/22/17 12:30 PM,Nu Star Albany,0.0
+8/22/17 12:30 PM,Peckham Albany,0.0
+8/22/17 12:30 PM,Gorman Albany,0.0
+8/22/17 12:30 PM,Pike Portsmouth,0.0
+8/22/17 12:30 PM,Aggregate Industries Boston,0.0
+8/22/17 12:30 PM,Nu Star Baltimore,0.0
+8/22/17 12:30 PM,Irving St. John,0.0
+8/22/17 12:30 PM,McAsphalt Hamilton,0.0
+8/22/17 12:30 PM,Nu Star Dumfries,0.0
+8/22/17 12:30 PM,Warner Mistersky,0.0
+8/22/17 12:30 PM,BP Toledo,0.0
+8/22/17 12:30 PM,BP Cleveland,0.0
+8/22/17 12:30 PM,Irving Botwood,0.0
+8/22/17 12:30 PM,Irving Stephenville,0.0
+8/22/17 12:30 PM,Irving Holyrood,0.0
+8/22/17 12:30 PM,Irving Searsport,0.0
+8/22/17 12:30 PM,Irving South Portland,0.0
+8/22/17 12:30 PM,Irving Newington,0.0
+8/22/17 12:30 PM,Irving New Haven,0.0
+8/22/17 12:30 PM,NOCO Tonawanda,0.0
+8/22/17 12:30 PM,Bajo Grande Refinery,0.0
+8/22/17 12:30 PM,Nu Star Savannah,0.0
+8/22/17 12:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 12:30 PM,MIT Jones Island,0.0
+8/22/17 12:30 PM,GCAC Mobile,0.0
+8/22/17 12:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 12:30 PM,Shell Corunna,0.0
+8/22/17 12:30 PM,Sprague Providence,0.0
+8/22/17 12:45 PM,Apex Oil Chesapeake,0.0
+8/22/17 12:45 PM,Nu Star Piney Point,0.0
+8/22/17 12:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 12:45 PM,Nu Star Newport News,0.0
+8/22/17 12:45 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 12:45 PM,Bitumar Hamilton,0.0
+8/22/17 12:45 PM,Iko Industries Hamilton,0.0
+8/22/17 12:45 PM,McAsphalt Oshawa,0.0
+8/22/17 12:45 PM,McAsphalt Dartmouth,0.0
+8/22/17 12:45 PM,Suncor Montreal,0.0
+8/22/17 12:45 PM,Canterm Montreal,0.0
+8/22/17 12:45 PM,TME Montreal,0.0
+8/22/17 12:45 PM,Sprague Sorel-Tracy,0.0
+8/22/17 12:45 PM,Sterling Fuels Windsor,0.0
+8/22/17 12:45 PM,BP Whiting,0.0
+8/22/17 12:45 PM,AOS Chicago,0.0
+8/22/17 12:45 PM,Marathon Detroit,0.0
+8/22/17 12:45 PM,Suncor Sarnia,0.0
+8/22/17 12:45 PM,Peckham Bronx,0.0
+8/22/17 12:45 PM,Nu Star Bronx,0.0
+8/22/17 12:45 PM,Nu Star Albany,0.0
+8/22/17 12:45 PM,Peckham Albany,0.0
+8/22/17 12:45 PM,Gorman Albany,0.0
+8/22/17 12:45 PM,Pike Portsmouth,0.0
+8/22/17 12:45 PM,Aggregate Industries Boston,0.0
+8/22/17 12:45 PM,Nu Star Baltimore,0.0
+8/22/17 12:45 PM,Irving St. John,0.0
+8/22/17 12:45 PM,McAsphalt Hamilton,0.0
+8/22/17 12:45 PM,Nu Star Dumfries,0.0
+8/22/17 12:45 PM,Warner Mistersky,0.0
+8/22/17 12:45 PM,BP Toledo,0.0
+8/22/17 12:45 PM,BP Cleveland,0.0
+8/22/17 12:45 PM,Irving Botwood,0.0
+8/22/17 12:45 PM,Irving Stephenville,0.0
+8/22/17 12:45 PM,Irving Holyrood,0.0
+8/22/17 12:45 PM,Irving Searsport,0.0
+8/22/17 12:45 PM,Irving South Portland,0.0
+8/22/17 12:45 PM,Irving Newington,0.0
+8/22/17 12:45 PM,Irving New Haven,0.0
+8/22/17 12:45 PM,NOCO Tonawanda,0.0
+8/22/17 12:45 PM,Bajo Grande Refinery,0.0
+8/22/17 12:45 PM,Nu Star Savannah,0.0
+8/22/17 12:45 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 12:45 PM,MIT Jones Island,0.0
+8/22/17 12:45 PM,GCAC Mobile,0.0
+8/22/17 12:45 PM,Canadian Asphalt Industries,0.0
+8/22/17 12:45 PM,Shell Corunna,0.0
+8/22/17 12:45 PM,Sprague Providence,0.0
+8/22/17 1:00 PM,Apex Oil Chesapeake,0.0
+8/22/17 1:00 PM,Nu Star Piney Point,0.0
+8/22/17 1:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 1:00 PM,Nu Star Newport News,0.0
+8/22/17 1:00 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 1:00 PM,Bitumar Hamilton,0.0
+8/22/17 1:00 PM,Iko Industries Hamilton,0.0
+8/22/17 1:00 PM,McAsphalt Oshawa,0.0
+8/22/17 1:00 PM,McAsphalt Dartmouth,0.0
+8/22/17 1:00 PM,Suncor Montreal,0.0
+8/22/17 1:00 PM,Canterm Montreal,0.0
+8/22/17 1:00 PM,TME Montreal,0.0
+8/22/17 1:00 PM,Sprague Sorel-Tracy,0.0
+8/22/17 1:00 PM,Sterling Fuels Windsor,0.0
+8/22/17 1:00 PM,BP Whiting,0.0
+8/22/17 1:00 PM,AOS Chicago,0.0
+8/22/17 1:00 PM,Marathon Detroit,0.0
+8/22/17 1:00 PM,Suncor Sarnia,0.0
+8/22/17 1:00 PM,Peckham Bronx,0.0
+8/22/17 1:00 PM,Nu Star Bronx,0.0
+8/22/17 1:00 PM,Nu Star Albany,0.0
+8/22/17 1:00 PM,Peckham Albany,0.0
+8/22/17 1:00 PM,Gorman Albany,0.0
+8/22/17 1:00 PM,Pike Portsmouth,0.0
+8/22/17 1:00 PM,Aggregate Industries Boston,0.0
+8/22/17 1:00 PM,Nu Star Baltimore,0.0
+8/22/17 1:00 PM,Irving St. John,0.0
+8/22/17 1:00 PM,McAsphalt Hamilton,0.0
+8/22/17 1:00 PM,Nu Star Dumfries,0.0
+8/22/17 1:00 PM,Warner Mistersky,0.0
+8/22/17 1:00 PM,BP Toledo,0.0
+8/22/17 1:00 PM,BP Cleveland,0.0
+8/22/17 1:00 PM,Irving Botwood,0.0
+8/22/17 1:00 PM,Irving Stephenville,0.0
+8/22/17 1:00 PM,Irving Holyrood,0.0
+8/22/17 1:00 PM,Irving Searsport,0.0
+8/22/17 1:00 PM,Irving South Portland,0.0
+8/22/17 1:00 PM,Irving Newington,0.0
+8/22/17 1:00 PM,Irving New Haven,0.0
+8/22/17 1:00 PM,NOCO Tonawanda,0.0
+8/22/17 1:00 PM,Bajo Grande Refinery,0.0
+8/22/17 1:00 PM,Nu Star Savannah,0.0
+8/22/17 1:00 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 1:00 PM,MIT Jones Island,0.0
+8/22/17 1:00 PM,GCAC Mobile,0.0
+8/22/17 1:00 PM,Canadian Asphalt Industries,0.0
+8/22/17 1:00 PM,Shell Corunna,0.0
+8/22/17 1:00 PM,Sprague Providence,0.0
+8/22/17 1:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 1:15 PM,Nu Star Piney Point,0.0
+8/22/17 1:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 1:15 PM,Nu Star Newport News,0.0
+8/22/17 1:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 1:15 PM,Bitumar Hamilton,0.0
+8/22/17 1:15 PM,Iko Industries Hamilton,0.0
+8/22/17 1:15 PM,McAsphalt Oshawa,0.0
+8/22/17 1:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 1:15 PM,Suncor Montreal,0.0
+8/22/17 1:15 PM,Canterm Montreal,0.0
+8/22/17 1:15 PM,TME Montreal,0.0
+8/22/17 1:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 1:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 1:15 PM,BP Whiting,0.0
+8/22/17 1:15 PM,AOS Chicago,0.0
+8/22/17 1:15 PM,Marathon Detroit,0.0
+8/22/17 1:15 PM,Suncor Sarnia,0.0
+8/22/17 1:15 PM,Peckham Bronx,0.0
+8/22/17 1:15 PM,Nu Star Bronx,0.0
+8/22/17 1:15 PM,Nu Star Albany,0.0
+8/22/17 1:15 PM,Peckham Albany,0.0
+8/22/17 1:15 PM,Gorman Albany,0.0
+8/22/17 1:15 PM,Pike Portsmouth,0.0
+8/22/17 1:15 PM,Aggregate Industries Boston,0.0
+8/22/17 1:15 PM,Nu Star Baltimore,0.0
+8/22/17 1:15 PM,Irving St. John,0.0
+8/22/17 1:15 PM,McAsphalt Hamilton,0.0
+8/22/17 1:15 PM,Nu Star Dumfries,0.0
+8/22/17 1:15 PM,Warner Mistersky,0.0
+8/22/17 1:15 PM,BP Toledo,0.0
+8/22/17 1:15 PM,BP Cleveland,0.0
+8/22/17 1:15 PM,Irving Botwood,0.0
+8/22/17 1:15 PM,Irving Stephenville,0.0
+8/22/17 1:15 PM,Irving Holyrood,0.0
+8/22/17 1:15 PM,Irving Searsport,0.0
+8/22/17 1:15 PM,Irving South Portland,0.0
+8/22/17 1:15 PM,Irving Newington,0.0
+8/22/17 1:15 PM,Irving New Haven,0.0
+8/22/17 1:15 PM,NOCO Tonawanda,0.0
+8/22/17 1:15 PM,Bajo Grande Refinery,0.0
+8/22/17 1:15 PM,Nu Star Savannah,0.0
+8/22/17 1:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 1:15 PM,MIT Jones Island,0.0
+8/22/17 1:15 PM,GCAC Mobile,0.0
+8/22/17 1:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 1:15 PM,Shell Corunna,0.0
+8/22/17 1:15 PM,Sprague Providence,0.0
+8/22/17 1:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 1:30 PM,Nu Star Piney Point,0.0
+8/22/17 1:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 1:30 PM,Nu Star Newport News,0.0
+8/22/17 1:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 1:30 PM,Bitumar Hamilton,0.0
+8/22/17 1:30 PM,Iko Industries Hamilton,0.0
+8/22/17 1:30 PM,McAsphalt Oshawa,0.0
+8/22/17 1:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 1:30 PM,Suncor Montreal,0.0
+8/22/17 1:30 PM,Canterm Montreal,0.0
+8/22/17 1:30 PM,TME Montreal,0.0
+8/22/17 1:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 1:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 1:30 PM,BP Whiting,0.0
+8/22/17 1:30 PM,AOS Chicago,0.0
+8/22/17 1:30 PM,Marathon Detroit,0.0
+8/22/17 1:30 PM,Suncor Sarnia,0.0
+8/22/17 1:30 PM,Peckham Bronx,0.0
+8/22/17 1:30 PM,Nu Star Bronx,0.0
+8/22/17 1:30 PM,Nu Star Albany,0.0
+8/22/17 1:30 PM,Peckham Albany,0.0
+8/22/17 1:30 PM,Gorman Albany,0.0
+8/22/17 1:30 PM,Pike Portsmouth,0.0
+8/22/17 1:30 PM,Aggregate Industries Boston,0.0
+8/22/17 1:30 PM,Nu Star Baltimore,0.0
+8/22/17 1:30 PM,Irving St. John,0.0
+8/22/17 1:30 PM,McAsphalt Hamilton,0.0
+8/22/17 1:30 PM,Nu Star Dumfries,0.0
+8/22/17 1:30 PM,Warner Mistersky,0.0
+8/22/17 1:30 PM,BP Toledo,0.0
+8/22/17 1:30 PM,BP Cleveland,0.0
+8/22/17 1:30 PM,Irving Botwood,0.0
+8/22/17 1:30 PM,Irving Stephenville,0.0
+8/22/17 1:30 PM,Irving Holyrood,0.0
+8/22/17 1:30 PM,Irving Searsport,0.0
+8/22/17 1:30 PM,Irving South Portland,0.0
+8/22/17 1:30 PM,Irving Newington,0.0
+8/22/17 1:30 PM,Irving New Haven,0.0
+8/22/17 1:30 PM,NOCO Tonawanda,0.0
+8/22/17 1:30 PM,Bajo Grande Refinery,0.0
+8/22/17 1:30 PM,Nu Star Savannah,0.0
+8/22/17 1:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 1:30 PM,MIT Jones Island,0.0
+8/22/17 1:30 PM,GCAC Mobile,0.0
+8/22/17 1:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 1:30 PM,Shell Corunna,0.0
+8/22/17 1:30 PM,Sprague Providence,0.0
+8/22/17 2:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 2:15 PM,Nu Star Piney Point,0.0
+8/22/17 2:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 2:15 PM,Nu Star Newport News,0.0
+8/22/17 2:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 2:15 PM,Bitumar Hamilton,0.0
+8/22/17 2:15 PM,Iko Industries Hamilton,0.0
+8/22/17 2:15 PM,McAsphalt Oshawa,0.0
+8/22/17 2:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 2:15 PM,Suncor Montreal,0.0
+8/22/17 2:15 PM,Canterm Montreal,0.0
+8/22/17 2:15 PM,TME Montreal,0.0
+8/22/17 2:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 2:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 2:15 PM,BP Whiting,0.0
+8/22/17 2:15 PM,AOS Chicago,0.0
+8/22/17 2:15 PM,Marathon Detroit,0.0
+8/22/17 2:15 PM,Suncor Sarnia,0.0
+8/22/17 2:15 PM,Peckham Bronx,0.0
+8/22/17 2:15 PM,Nu Star Bronx,0.0
+8/22/17 2:15 PM,Nu Star Albany,0.0
+8/22/17 2:15 PM,Peckham Albany,0.0
+8/22/17 2:15 PM,Gorman Albany,0.0
+8/22/17 2:15 PM,Pike Portsmouth,0.0
+8/22/17 2:15 PM,Aggregate Industries Boston,0.0
+8/22/17 2:15 PM,Nu Star Baltimore,0.0
+8/22/17 2:15 PM,Irving St. John,0.0
+8/22/17 2:15 PM,McAsphalt Hamilton,0.0
+8/22/17 2:15 PM,Nu Star Dumfries,0.0
+8/22/17 2:15 PM,Warner Mistersky,0.0
+8/22/17 2:15 PM,BP Toledo,0.0
+8/22/17 2:15 PM,BP Cleveland,0.0
+8/22/17 2:15 PM,Irving Botwood,0.0
+8/22/17 2:15 PM,Irving Stephenville,0.0
+8/22/17 2:15 PM,Irving Holyrood,0.0
+8/22/17 2:15 PM,Irving Searsport,0.0
+8/22/17 2:15 PM,Irving South Portland,0.0
+8/22/17 2:15 PM,Irving Newington,0.0
+8/22/17 2:15 PM,Irving New Haven,0.0
+8/22/17 2:15 PM,NOCO Tonawanda,0.0
+8/22/17 2:15 PM,Bajo Grande Refinery,0.0
+8/22/17 2:15 PM,Nu Star Savannah,0.0
+8/22/17 2:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 2:15 PM,MIT Jones Island,0.0
+8/22/17 2:15 PM,GCAC Mobile,0.0
+8/22/17 2:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 2:15 PM,Shell Corunna,0.0
+8/22/17 2:15 PM,Sprague Providence,0.0
+8/22/17 2:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 2:30 PM,Nu Star Piney Point,0.0
+8/22/17 2:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 2:30 PM,Nu Star Newport News,0.0
+8/22/17 2:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 2:30 PM,Bitumar Hamilton,0.0
+8/22/17 2:30 PM,Iko Industries Hamilton,0.0
+8/22/17 2:30 PM,McAsphalt Oshawa,0.0
+8/22/17 2:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 2:30 PM,Suncor Montreal,0.0
+8/22/17 2:30 PM,Canterm Montreal,0.0
+8/22/17 2:30 PM,TME Montreal,0.0
+8/22/17 2:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 2:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 2:30 PM,BP Whiting,0.0
+8/22/17 2:30 PM,AOS Chicago,0.0
+8/22/17 2:30 PM,Marathon Detroit,0.0
+8/22/17 2:30 PM,Suncor Sarnia,0.0
+8/22/17 2:30 PM,Peckham Bronx,0.0
+8/22/17 2:30 PM,Nu Star Bronx,0.0
+8/22/17 2:30 PM,Nu Star Albany,0.0
+8/22/17 2:30 PM,Peckham Albany,0.0
+8/22/17 2:30 PM,Gorman Albany,0.0
+8/22/17 2:30 PM,Pike Portsmouth,0.0
+8/22/17 2:30 PM,Aggregate Industries Boston,0.0
+8/22/17 2:30 PM,Nu Star Baltimore,0.0
+8/22/17 2:30 PM,Irving St. John,0.0
+8/22/17 2:30 PM,McAsphalt Hamilton,0.0
+8/22/17 2:30 PM,Nu Star Dumfries,0.0
+8/22/17 2:30 PM,Warner Mistersky,0.0
+8/22/17 2:30 PM,BP Toledo,0.0
+8/22/17 2:30 PM,BP Cleveland,0.0
+8/22/17 2:30 PM,Irving Botwood,0.0
+8/22/17 2:30 PM,Irving Stephenville,0.0
+8/22/17 2:30 PM,Irving Holyrood,0.0
+8/22/17 2:30 PM,Irving Searsport,0.0
+8/22/17 2:30 PM,Irving South Portland,0.0
+8/22/17 2:30 PM,Irving Newington,0.0
+8/22/17 2:30 PM,Irving New Haven,0.0
+8/22/17 2:30 PM,NOCO Tonawanda,0.0
+8/22/17 2:30 PM,Bajo Grande Refinery,0.0
+8/22/17 2:30 PM,Nu Star Savannah,0.0
+8/22/17 2:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 2:30 PM,MIT Jones Island,0.0
+8/22/17 2:30 PM,GCAC Mobile,0.0
+8/22/17 2:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 2:30 PM,Shell Corunna,0.0
+8/22/17 2:30 PM,Sprague Providence,0.0
+8/22/17 2:45 PM,Apex Oil Chesapeake,0.0
+8/22/17 2:45 PM,Nu Star Piney Point,0.0
+8/22/17 2:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 2:45 PM,Nu Star Newport News,0.0
+8/22/17 2:45 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 2:45 PM,Bitumar Hamilton,0.0
+8/22/17 2:45 PM,Iko Industries Hamilton,0.0
+8/22/17 2:45 PM,McAsphalt Oshawa,0.0
+8/22/17 2:45 PM,McAsphalt Dartmouth,0.0
+8/22/17 2:45 PM,Suncor Montreal,0.0
+8/22/17 2:45 PM,Canterm Montreal,0.0
+8/22/17 2:45 PM,TME Montreal,0.0
+8/22/17 2:45 PM,Sprague Sorel-Tracy,0.0
+8/22/17 2:45 PM,Sterling Fuels Windsor,0.0
+8/22/17 2:45 PM,BP Whiting,0.0
+8/22/17 2:45 PM,AOS Chicago,0.0
+8/22/17 2:45 PM,Marathon Detroit,0.0
+8/22/17 2:45 PM,Suncor Sarnia,0.0
+8/22/17 2:45 PM,Peckham Bronx,0.0
+8/22/17 2:45 PM,Nu Star Bronx,0.0
+8/22/17 2:45 PM,Nu Star Albany,0.0
+8/22/17 2:45 PM,Peckham Albany,0.0
+8/22/17 2:45 PM,Gorman Albany,0.0
+8/22/17 2:45 PM,Pike Portsmouth,0.0
+8/22/17 2:45 PM,Aggregate Industries Boston,0.0
+8/22/17 2:45 PM,Nu Star Baltimore,0.0
+8/22/17 2:45 PM,Irving St. John,0.0
+8/22/17 2:45 PM,McAsphalt Hamilton,0.0
+8/22/17 2:45 PM,Nu Star Dumfries,0.0
+8/22/17 2:45 PM,Warner Mistersky,0.0
+8/22/17 2:45 PM,BP Toledo,0.0
+8/22/17 2:45 PM,BP Cleveland,0.0
+8/22/17 2:45 PM,Irving Botwood,0.0
+8/22/17 2:45 PM,Irving Stephenville,0.0
+8/22/17 2:45 PM,Irving Holyrood,0.0
+8/22/17 2:45 PM,Irving Searsport,0.0
+8/22/17 2:45 PM,Irving South Portland,0.0
+8/22/17 2:45 PM,Irving Newington,0.0
+8/22/17 2:45 PM,Irving New Haven,0.0
+8/22/17 2:45 PM,NOCO Tonawanda,0.0
+8/22/17 2:45 PM,Bajo Grande Refinery,0.0
+8/22/17 2:45 PM,Nu Star Savannah,0.0
+8/22/17 2:45 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 2:45 PM,MIT Jones Island,0.0
+8/22/17 2:45 PM,GCAC Mobile,0.0
+8/22/17 2:45 PM,Canadian Asphalt Industries,0.0
+8/22/17 2:45 PM,Shell Corunna,0.0
+8/22/17 2:45 PM,Sprague Providence,0.0
+8/22/17 3:00 PM,Apex Oil Chesapeake,0.0
+8/22/17 3:00 PM,Nu Star Piney Point,0.0
+8/22/17 3:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 3:00 PM,Nu Star Newport News,0.0
+8/22/17 3:00 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 3:00 PM,Bitumar Hamilton,0.0
+8/22/17 3:00 PM,Iko Industries Hamilton,0.0
+8/22/17 3:00 PM,McAsphalt Oshawa,0.0
+8/22/17 3:00 PM,McAsphalt Dartmouth,0.0
+8/22/17 3:00 PM,Suncor Montreal,0.0
+8/22/17 3:00 PM,Canterm Montreal,0.0
+8/22/17 3:00 PM,TME Montreal,0.0
+8/22/17 3:00 PM,Sprague Sorel-Tracy,0.0
+8/22/17 3:00 PM,Sterling Fuels Windsor,0.0
+8/22/17 3:00 PM,BP Whiting,0.0
+8/22/17 3:00 PM,AOS Chicago,0.0
+8/22/17 3:00 PM,Marathon Detroit,0.0
+8/22/17 3:00 PM,Suncor Sarnia,0.0
+8/22/17 3:00 PM,Peckham Bronx,0.0
+8/22/17 3:00 PM,Nu Star Bronx,0.0
+8/22/17 3:00 PM,Nu Star Albany,0.0
+8/22/17 3:00 PM,Peckham Albany,0.0
+8/22/17 3:00 PM,Gorman Albany,0.0
+8/22/17 3:00 PM,Pike Portsmouth,0.0
+8/22/17 3:00 PM,Aggregate Industries Boston,0.0
+8/22/17 3:00 PM,Nu Star Baltimore,0.0
+8/22/17 3:00 PM,Irving St. John,0.0
+8/22/17 3:00 PM,McAsphalt Hamilton,0.0
+8/22/17 3:00 PM,Nu Star Dumfries,0.0
+8/22/17 3:00 PM,Warner Mistersky,0.0
+8/22/17 3:00 PM,BP Toledo,0.0
+8/22/17 3:00 PM,BP Cleveland,0.0
+8/22/17 3:00 PM,Irving Botwood,0.0
+8/22/17 3:00 PM,Irving Stephenville,0.0
+8/22/17 3:00 PM,Irving Holyrood,0.0
+8/22/17 3:00 PM,Irving Searsport,0.0
+8/22/17 3:00 PM,Irving South Portland,0.0
+8/22/17 3:00 PM,Irving Newington,0.0
+8/22/17 3:00 PM,Irving New Haven,0.0
+8/22/17 3:00 PM,NOCO Tonawanda,0.0
+8/22/17 3:00 PM,Bajo Grande Refinery,0.0
+8/22/17 3:00 PM,Nu Star Savannah,0.0
+8/22/17 3:00 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 3:00 PM,MIT Jones Island,0.0
+8/22/17 3:00 PM,GCAC Mobile,0.0
+8/22/17 3:00 PM,Canadian Asphalt Industries,0.0
+8/22/17 3:00 PM,Shell Corunna,0.0
+8/22/17 3:00 PM,Sprague Providence,0.0
+8/22/17 3:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 3:15 PM,Nu Star Piney Point,0.0
+8/22/17 3:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 3:15 PM,Nu Star Newport News,0.0
+8/22/17 3:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 3:15 PM,Bitumar Hamilton,0.0
+8/22/17 3:15 PM,Iko Industries Hamilton,0.0
+8/22/17 3:15 PM,McAsphalt Oshawa,0.0
+8/22/17 3:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 3:15 PM,Suncor Montreal,0.0
+8/22/17 3:15 PM,Canterm Montreal,0.0
+8/22/17 3:15 PM,TME Montreal,0.0
+8/22/17 3:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 3:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 3:15 PM,BP Whiting,0.0
+8/22/17 3:15 PM,AOS Chicago,0.0
+8/22/17 3:15 PM,Marathon Detroit,0.0
+8/22/17 3:15 PM,Suncor Sarnia,0.0
+8/22/17 3:15 PM,Peckham Bronx,0.0
+8/22/17 3:15 PM,Nu Star Bronx,0.0
+8/22/17 3:15 PM,Nu Star Albany,0.0
+8/22/17 3:15 PM,Peckham Albany,0.0
+8/22/17 3:15 PM,Gorman Albany,0.0
+8/22/17 3:15 PM,Pike Portsmouth,0.0
+8/22/17 3:15 PM,Aggregate Industries Boston,0.0
+8/22/17 3:15 PM,Nu Star Baltimore,0.0
+8/22/17 3:15 PM,Irving St. John,0.0
+8/22/17 3:15 PM,McAsphalt Hamilton,0.0
+8/22/17 3:15 PM,Nu Star Dumfries,0.0
+8/22/17 3:15 PM,Warner Mistersky,0.0
+8/22/17 3:15 PM,BP Toledo,0.0
+8/22/17 3:15 PM,BP Cleveland,0.0
+8/22/17 3:15 PM,Irving Botwood,0.0
+8/22/17 3:15 PM,Irving Stephenville,0.0
+8/22/17 3:15 PM,Irving Holyrood,0.0
+8/22/17 3:15 PM,Irving Searsport,0.0
+8/22/17 3:15 PM,Irving South Portland,0.0
+8/22/17 3:15 PM,Irving Newington,0.0
+8/22/17 3:15 PM,Irving New Haven,0.0
+8/22/17 3:15 PM,NOCO Tonawanda,0.0
+8/22/17 3:15 PM,Bajo Grande Refinery,0.0
+8/22/17 3:15 PM,Nu Star Savannah,0.0
+8/22/17 3:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 3:15 PM,MIT Jones Island,0.0
+8/22/17 3:15 PM,GCAC Mobile,0.0
+8/22/17 3:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 3:15 PM,Shell Corunna,0.0
+8/22/17 3:15 PM,Sprague Providence,0.0
+8/22/17 3:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 3:30 PM,Nu Star Piney Point,0.0
+8/22/17 3:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 3:30 PM,Nu Star Newport News,0.0
+8/22/17 3:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 3:30 PM,Bitumar Hamilton,0.0
+8/22/17 3:30 PM,Iko Industries Hamilton,0.0
+8/22/17 3:30 PM,McAsphalt Oshawa,0.0
+8/22/17 3:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 3:30 PM,Suncor Montreal,0.0
+8/22/17 3:30 PM,Canterm Montreal,0.0
+8/22/17 3:30 PM,TME Montreal,0.0
+8/22/17 3:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 3:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 3:30 PM,BP Whiting,0.0
+8/22/17 3:30 PM,AOS Chicago,0.0
+8/22/17 3:30 PM,Marathon Detroit,0.0
+8/22/17 3:30 PM,Suncor Sarnia,0.0
+8/22/17 3:30 PM,Peckham Bronx,0.0
+8/22/17 3:30 PM,Nu Star Bronx,0.0
+8/22/17 3:30 PM,Nu Star Albany,0.0
+8/22/17 3:30 PM,Peckham Albany,0.0
+8/22/17 3:30 PM,Gorman Albany,0.0
+8/22/17 3:30 PM,Pike Portsmouth,0.0
+8/22/17 3:30 PM,Aggregate Industries Boston,0.0
+8/22/17 3:30 PM,Nu Star Baltimore,0.0
+8/22/17 3:30 PM,Irving St. John,0.0
+8/22/17 3:30 PM,McAsphalt Hamilton,0.0
+8/22/17 3:30 PM,Nu Star Dumfries,0.0
+8/22/17 3:30 PM,Warner Mistersky,0.0
+8/22/17 3:30 PM,BP Toledo,0.0
+8/22/17 3:30 PM,BP Cleveland,0.0
+8/22/17 3:30 PM,Irving Botwood,0.0
+8/22/17 3:30 PM,Irving Stephenville,0.0
+8/22/17 3:30 PM,Irving Holyrood,0.0
+8/22/17 3:30 PM,Irving Searsport,0.0
+8/22/17 3:30 PM,Irving South Portland,0.0
+8/22/17 3:30 PM,Irving Newington,0.0
+8/22/17 3:30 PM,Irving New Haven,0.0
+8/22/17 3:30 PM,NOCO Tonawanda,0.0
+8/22/17 3:30 PM,Bajo Grande Refinery,0.0
+8/22/17 3:30 PM,Nu Star Savannah,0.0
+8/22/17 3:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 3:30 PM,MIT Jones Island,0.0
+8/22/17 3:30 PM,GCAC Mobile,0.0
+8/22/17 3:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 3:30 PM,Shell Corunna,0.0
+8/22/17 3:30 PM,Sprague Providence,0.0
+8/22/17 3:45 PM,Apex Oil Chesapeake,0.0
+8/22/17 3:45 PM,Nu Star Piney Point,0.0
+8/22/17 3:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 3:45 PM,Nu Star Newport News,0.0
+8/22/17 3:45 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 3:45 PM,Bitumar Hamilton,0.0
+8/22/17 3:45 PM,Iko Industries Hamilton,0.0
+8/22/17 3:45 PM,McAsphalt Oshawa,0.0
+8/22/17 3:45 PM,McAsphalt Dartmouth,0.0
+8/22/17 3:45 PM,Suncor Montreal,0.0
+8/22/17 3:45 PM,Canterm Montreal,0.0
+8/22/17 3:45 PM,TME Montreal,0.0
+8/22/17 3:45 PM,Sprague Sorel-Tracy,0.0
+8/22/17 3:45 PM,Sterling Fuels Windsor,0.0
+8/22/17 3:45 PM,BP Whiting,0.0
+8/22/17 3:45 PM,AOS Chicago,0.0
+8/22/17 3:45 PM,Marathon Detroit,0.0
+8/22/17 3:45 PM,Suncor Sarnia,0.0
+8/22/17 3:45 PM,Peckham Bronx,0.0
+8/22/17 3:45 PM,Nu Star Bronx,0.0
+8/22/17 3:45 PM,Nu Star Albany,0.0
+8/22/17 3:45 PM,Peckham Albany,0.0
+8/22/17 3:45 PM,Gorman Albany,0.0
+8/22/17 3:45 PM,Pike Portsmouth,0.0
+8/22/17 3:45 PM,Aggregate Industries Boston,0.0
+8/22/17 3:45 PM,Nu Star Baltimore,0.0
+8/22/17 3:45 PM,Irving St. John,0.0
+8/22/17 3:45 PM,McAsphalt Hamilton,0.0
+8/22/17 3:45 PM,Nu Star Dumfries,0.0
+8/22/17 3:45 PM,Warner Mistersky,0.0
+8/22/17 3:45 PM,BP Toledo,0.0
+8/22/17 3:45 PM,BP Cleveland,0.0
+8/22/17 3:45 PM,Irving Botwood,0.0
+8/22/17 3:45 PM,Irving Stephenville,0.0
+8/22/17 3:45 PM,Irving Holyrood,0.0
+8/22/17 3:45 PM,Irving Searsport,0.0
+8/22/17 3:45 PM,Irving South Portland,0.0
+8/22/17 3:45 PM,Irving Newington,0.0
+8/22/17 3:45 PM,Irving New Haven,0.0
+8/22/17 3:45 PM,NOCO Tonawanda,0.0
+8/22/17 3:45 PM,Bajo Grande Refinery,0.0
+8/22/17 3:45 PM,Nu Star Savannah,0.0
+8/22/17 3:45 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 3:45 PM,MIT Jones Island,0.0
+8/22/17 3:45 PM,GCAC Mobile,0.0
+8/22/17 3:45 PM,Canadian Asphalt Industries,0.0
+8/22/17 3:45 PM,Shell Corunna,0.0
+8/22/17 3:45 PM,Sprague Providence,0.0
+8/22/17 4:00 PM,Apex Oil Chesapeake,0.0
+8/22/17 4:00 PM,Nu Star Piney Point,0.0
+8/22/17 4:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 4:00 PM,Nu Star Newport News,0.0
+8/22/17 4:00 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 4:00 PM,Bitumar Hamilton,0.0
+8/22/17 4:00 PM,Iko Industries Hamilton,0.0
+8/22/17 4:00 PM,McAsphalt Oshawa,0.0
+8/22/17 4:00 PM,McAsphalt Dartmouth,0.0
+8/22/17 4:00 PM,Suncor Montreal,0.0
+8/22/17 4:00 PM,Canterm Montreal,0.0
+8/22/17 4:00 PM,TME Montreal,0.0
+8/22/17 4:00 PM,Sprague Sorel-Tracy,0.0
+8/22/17 4:00 PM,Sterling Fuels Windsor,0.0
+8/22/17 4:00 PM,BP Whiting,0.0
+8/22/17 4:00 PM,AOS Chicago,0.0
+8/22/17 4:00 PM,Marathon Detroit,0.0
+8/22/17 4:00 PM,Suncor Sarnia,0.0
+8/22/17 4:00 PM,Peckham Bronx,0.0
+8/22/17 4:00 PM,Nu Star Bronx,0.0
+8/22/17 4:00 PM,Nu Star Albany,0.0
+8/22/17 4:00 PM,Peckham Albany,0.0
+8/22/17 4:00 PM,Gorman Albany,0.0
+8/22/17 4:00 PM,Pike Portsmouth,0.0
+8/22/17 4:00 PM,Aggregate Industries Boston,0.0
+8/22/17 4:00 PM,Nu Star Baltimore,0.0
+8/22/17 4:00 PM,Irving St. John,0.0
+8/22/17 4:00 PM,McAsphalt Hamilton,0.0
+8/22/17 4:00 PM,Nu Star Dumfries,0.0
+8/22/17 4:00 PM,Warner Mistersky,0.0
+8/22/17 4:00 PM,BP Toledo,0.0
+8/22/17 4:00 PM,BP Cleveland,0.0
+8/22/17 4:00 PM,Irving Botwood,0.0
+8/22/17 4:00 PM,Irving Stephenville,0.0
+8/22/17 4:00 PM,Irving Holyrood,0.0
+8/22/17 4:00 PM,Irving Searsport,0.0
+8/22/17 4:00 PM,Irving South Portland,0.0
+8/22/17 4:00 PM,Irving Newington,0.0
+8/22/17 4:00 PM,Irving New Haven,0.0
+8/22/17 4:00 PM,NOCO Tonawanda,0.0
+8/22/17 4:00 PM,Bajo Grande Refinery,0.0
+8/22/17 4:00 PM,Nu Star Savannah,0.0
+8/22/17 4:00 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 4:00 PM,MIT Jones Island,0.0
+8/22/17 4:00 PM,GCAC Mobile,0.0
+8/22/17 4:00 PM,Canadian Asphalt Industries,0.0
+8/22/17 4:00 PM,Shell Corunna,0.0
+8/22/17 4:00 PM,Sprague Providence,0.0
+8/22/17 4:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 4:15 PM,Nu Star Piney Point,0.0
+8/22/17 4:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 4:15 PM,Nu Star Newport News,0.0
+8/22/17 4:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 4:15 PM,Bitumar Hamilton,0.0
+8/22/17 4:15 PM,Iko Industries Hamilton,0.0
+8/22/17 4:15 PM,McAsphalt Oshawa,0.0
+8/22/17 4:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 4:15 PM,Suncor Montreal,0.0
+8/22/17 4:15 PM,Canterm Montreal,0.0
+8/22/17 4:15 PM,TME Montreal,0.0
+8/22/17 4:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 4:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 4:15 PM,BP Whiting,0.0
+8/22/17 4:15 PM,AOS Chicago,0.0
+8/22/17 4:15 PM,Marathon Detroit,0.0
+8/22/17 4:15 PM,Suncor Sarnia,0.0
+8/22/17 4:15 PM,Peckham Bronx,0.0
+8/22/17 4:15 PM,Nu Star Bronx,0.0
+8/22/17 4:15 PM,Nu Star Albany,0.0
+8/22/17 4:15 PM,Peckham Albany,0.0
+8/22/17 4:15 PM,Gorman Albany,0.0
+8/22/17 4:15 PM,Pike Portsmouth,0.0
+8/22/17 4:15 PM,Aggregate Industries Boston,0.0
+8/22/17 4:15 PM,Nu Star Baltimore,0.0
+8/22/17 4:15 PM,Irving St. John,0.0
+8/22/17 4:15 PM,McAsphalt Hamilton,0.0
+8/22/17 4:15 PM,Nu Star Dumfries,0.0
+8/22/17 4:15 PM,Warner Mistersky,0.0
+8/22/17 4:15 PM,BP Toledo,0.0
+8/22/17 4:15 PM,BP Cleveland,0.0
+8/22/17 4:15 PM,Irving Botwood,0.0
+8/22/17 4:15 PM,Irving Stephenville,0.0
+8/22/17 4:15 PM,Irving Holyrood,0.0
+8/22/17 4:15 PM,Irving Searsport,0.0
+8/22/17 4:15 PM,Irving South Portland,0.0
+8/22/17 4:15 PM,Irving Newington,0.0
+8/22/17 4:15 PM,Irving New Haven,0.0
+8/22/17 4:15 PM,NOCO Tonawanda,0.0
+8/22/17 4:15 PM,Bajo Grande Refinery,0.0
+8/22/17 4:15 PM,Nu Star Savannah,0.0
+8/22/17 4:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 4:15 PM,MIT Jones Island,0.0
+8/22/17 4:15 PM,GCAC Mobile,0.0
+8/22/17 4:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 4:15 PM,Shell Corunna,0.0
+8/22/17 4:15 PM,Sprague Providence,0.0
+8/22/17 4:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 4:30 PM,Nu Star Piney Point,0.0
+8/22/17 4:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 4:30 PM,Nu Star Newport News,0.0
+8/22/17 4:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 4:30 PM,Bitumar Hamilton,0.0
+8/22/17 4:30 PM,Iko Industries Hamilton,0.0
+8/22/17 4:30 PM,McAsphalt Oshawa,0.0
+8/22/17 4:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 4:30 PM,Suncor Montreal,0.0
+8/22/17 4:30 PM,Canterm Montreal,0.0
+8/22/17 4:30 PM,TME Montreal,0.0
+8/22/17 4:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 4:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 4:30 PM,BP Whiting,0.0
+8/22/17 4:30 PM,AOS Chicago,0.0
+8/22/17 4:30 PM,Marathon Detroit,0.0
+8/22/17 4:30 PM,Suncor Sarnia,0.0
+8/22/17 4:30 PM,Peckham Bronx,0.0
+8/22/17 4:30 PM,Nu Star Bronx,0.0
+8/22/17 4:30 PM,Nu Star Albany,0.0
+8/22/17 4:30 PM,Peckham Albany,0.0
+8/22/17 4:30 PM,Gorman Albany,0.0
+8/22/17 4:30 PM,Pike Portsmouth,0.0
+8/22/17 4:30 PM,Aggregate Industries Boston,0.0
+8/22/17 4:30 PM,Nu Star Baltimore,0.0
+8/22/17 4:30 PM,Irving St. John,0.0
+8/22/17 4:30 PM,McAsphalt Hamilton,0.0
+8/22/17 4:30 PM,Nu Star Dumfries,0.0
+8/22/17 4:30 PM,Warner Mistersky,0.0
+8/22/17 4:30 PM,BP Toledo,0.0
+8/22/17 4:30 PM,BP Cleveland,0.0
+8/22/17 4:30 PM,Irving Botwood,0.0
+8/22/17 4:30 PM,Irving Stephenville,0.0
+8/22/17 4:30 PM,Irving Holyrood,0.0
+8/22/17 4:30 PM,Irving Searsport,0.0
+8/22/17 4:30 PM,Irving South Portland,0.0
+8/22/17 4:30 PM,Irving Newington,0.0
+8/22/17 4:30 PM,Irving New Haven,0.0
+8/22/17 4:30 PM,NOCO Tonawanda,0.0
+8/22/17 4:30 PM,Bajo Grande Refinery,0.0
+8/22/17 4:30 PM,Nu Star Savannah,0.0
+8/22/17 4:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 4:30 PM,MIT Jones Island,0.0
+8/22/17 4:30 PM,GCAC Mobile,0.0
+8/22/17 4:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 4:30 PM,Shell Corunna,0.0
+8/22/17 4:30 PM,Sprague Providence,0.0
+8/22/17 4:45 PM,Apex Oil Chesapeake,0.0
+8/22/17 4:45 PM,Nu Star Piney Point,0.0
+8/22/17 4:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 4:45 PM,Nu Star Newport News,0.0
+8/22/17 4:45 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 4:45 PM,Bitumar Hamilton,0.0
+8/22/17 4:45 PM,Iko Industries Hamilton,0.0
+8/22/17 4:45 PM,McAsphalt Oshawa,0.0
+8/22/17 4:45 PM,McAsphalt Dartmouth,0.0
+8/22/17 4:45 PM,Suncor Montreal,0.0
+8/22/17 4:45 PM,Canterm Montreal,0.0
+8/22/17 4:45 PM,TME Montreal,0.0
+8/22/17 4:45 PM,Sprague Sorel-Tracy,0.0
+8/22/17 4:45 PM,Sterling Fuels Windsor,0.0
+8/22/17 4:45 PM,BP Whiting,0.0
+8/22/17 4:45 PM,AOS Chicago,0.0
+8/22/17 4:45 PM,Marathon Detroit,0.0
+8/22/17 4:45 PM,Suncor Sarnia,0.0
+8/22/17 4:45 PM,Peckham Bronx,0.0
+8/22/17 4:45 PM,Nu Star Bronx,0.0
+8/22/17 4:45 PM,Nu Star Albany,0.0
+8/22/17 4:45 PM,Peckham Albany,0.0
+8/22/17 4:45 PM,Gorman Albany,0.0
+8/22/17 4:45 PM,Pike Portsmouth,0.0
+8/22/17 4:45 PM,Aggregate Industries Boston,0.0
+8/22/17 4:45 PM,Nu Star Baltimore,0.0
+8/22/17 4:45 PM,Irving St. John,0.0
+8/22/17 4:45 PM,McAsphalt Hamilton,0.0
+8/22/17 4:45 PM,Nu Star Dumfries,0.0
+8/22/17 4:45 PM,Warner Mistersky,0.0
+8/22/17 4:45 PM,BP Toledo,0.0
+8/22/17 4:45 PM,BP Cleveland,0.0
+8/22/17 4:45 PM,Irving Botwood,0.0
+8/22/17 4:45 PM,Irving Stephenville,0.0
+8/22/17 4:45 PM,Irving Holyrood,0.0
+8/22/17 4:45 PM,Irving Searsport,0.0
+8/22/17 4:45 PM,Irving South Portland,0.0
+8/22/17 4:45 PM,Irving Newington,0.0
+8/22/17 4:45 PM,Irving New Haven,0.0
+8/22/17 4:45 PM,NOCO Tonawanda,0.0
+8/22/17 4:45 PM,Bajo Grande Refinery,0.0
+8/22/17 4:45 PM,Nu Star Savannah,0.0
+8/22/17 4:45 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 4:45 PM,MIT Jones Island,0.0
+8/22/17 4:45 PM,GCAC Mobile,0.0
+8/22/17 4:45 PM,Canadian Asphalt Industries,0.0
+8/22/17 4:45 PM,Shell Corunna,0.0
+8/22/17 4:45 PM,Sprague Providence,0.0
+8/22/17 5:00 PM,Apex Oil Chesapeake,0.0
+8/22/17 5:00 PM,Nu Star Piney Point,0.0
+8/22/17 5:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 5:00 PM,Nu Star Newport News,0.0
+8/22/17 5:00 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 5:00 PM,Bitumar Hamilton,0.0
+8/22/17 5:00 PM,Iko Industries Hamilton,0.0
+8/22/17 5:00 PM,McAsphalt Oshawa,0.0
+8/22/17 5:00 PM,McAsphalt Dartmouth,0.0
+8/22/17 5:00 PM,Suncor Montreal,0.0
+8/22/17 5:00 PM,Canterm Montreal,0.0
+8/22/17 5:00 PM,TME Montreal,0.0
+8/22/17 5:00 PM,Sprague Sorel-Tracy,0.0
+8/22/17 5:00 PM,Sterling Fuels Windsor,0.0
+8/22/17 5:00 PM,BP Whiting,0.0
+8/22/17 5:00 PM,AOS Chicago,0.0
+8/22/17 5:00 PM,Marathon Detroit,0.0
+8/22/17 5:00 PM,Suncor Sarnia,0.0
+8/22/17 5:00 PM,Peckham Bronx,0.0
+8/22/17 5:00 PM,Nu Star Bronx,0.0
+8/22/17 5:00 PM,Nu Star Albany,0.0
+8/22/17 5:00 PM,Peckham Albany,0.0
+8/22/17 5:00 PM,Gorman Albany,0.0
+8/22/17 5:00 PM,Pike Portsmouth,0.0
+8/22/17 5:00 PM,Aggregate Industries Boston,0.0
+8/22/17 5:00 PM,Nu Star Baltimore,0.0
+8/22/17 5:00 PM,Irving St. John,0.0
+8/22/17 5:00 PM,McAsphalt Hamilton,0.0
+8/22/17 5:00 PM,Nu Star Dumfries,0.0
+8/22/17 5:00 PM,Warner Mistersky,0.0
+8/22/17 5:00 PM,BP Toledo,0.0
+8/22/17 5:00 PM,BP Cleveland,0.0
+8/22/17 5:00 PM,Irving Botwood,0.0
+8/22/17 5:00 PM,Irving Stephenville,0.0
+8/22/17 5:00 PM,Irving Holyrood,0.0
+8/22/17 5:00 PM,Irving Searsport,0.0
+8/22/17 5:00 PM,Irving South Portland,0.0
+8/22/17 5:00 PM,Irving Newington,0.0
+8/22/17 5:00 PM,Irving New Haven,0.0
+8/22/17 5:00 PM,NOCO Tonawanda,0.0
+8/22/17 5:00 PM,Bajo Grande Refinery,0.0
+8/22/17 5:00 PM,Nu Star Savannah,0.0
+8/22/17 5:00 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 5:00 PM,MIT Jones Island,0.0
+8/22/17 5:00 PM,GCAC Mobile,0.0
+8/22/17 5:00 PM,Canadian Asphalt Industries,0.0
+8/22/17 5:00 PM,Shell Corunna,0.0
+8/22/17 5:00 PM,Sprague Providence,0.0
+8/22/17 5:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 5:15 PM,Nu Star Piney Point,0.0
+8/22/17 5:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 5:15 PM,Nu Star Newport News,0.0
+8/22/17 5:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 5:15 PM,Bitumar Hamilton,0.0
+8/22/17 5:15 PM,Iko Industries Hamilton,0.0
+8/22/17 5:15 PM,McAsphalt Oshawa,0.0
+8/22/17 5:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 5:15 PM,Suncor Montreal,0.0
+8/22/17 5:15 PM,Canterm Montreal,0.0
+8/22/17 5:15 PM,TME Montreal,0.0
+8/22/17 5:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 5:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 5:15 PM,BP Whiting,0.0
+8/22/17 5:15 PM,AOS Chicago,0.0
+8/22/17 5:15 PM,Marathon Detroit,0.0
+8/22/17 5:15 PM,Suncor Sarnia,0.0
+8/22/17 5:15 PM,Peckham Bronx,0.0
+8/22/17 5:15 PM,Nu Star Bronx,0.0
+8/22/17 5:15 PM,Nu Star Albany,0.0
+8/22/17 5:15 PM,Peckham Albany,0.0
+8/22/17 5:15 PM,Gorman Albany,0.0
+8/22/17 5:15 PM,Pike Portsmouth,0.0
+8/22/17 5:15 PM,Aggregate Industries Boston,0.0
+8/22/17 5:15 PM,Nu Star Baltimore,0.0
+8/22/17 5:15 PM,Irving St. John,0.0
+8/22/17 5:15 PM,McAsphalt Hamilton,0.0
+8/22/17 5:15 PM,Nu Star Dumfries,0.0
+8/22/17 5:15 PM,Warner Mistersky,0.0
+8/22/17 5:15 PM,BP Toledo,0.0
+8/22/17 5:15 PM,BP Cleveland,0.0
+8/22/17 5:15 PM,Irving Botwood,0.0
+8/22/17 5:15 PM,Irving Stephenville,0.0
+8/22/17 5:15 PM,Irving Holyrood,0.0
+8/22/17 5:15 PM,Irving Searsport,0.0
+8/22/17 5:15 PM,Irving South Portland,0.0
+8/22/17 5:15 PM,Irving Newington,0.0
+8/22/17 5:15 PM,Irving New Haven,0.0
+8/22/17 5:15 PM,NOCO Tonawanda,0.0
+8/22/17 5:15 PM,Bajo Grande Refinery,0.0
+8/22/17 5:15 PM,Nu Star Savannah,0.0
+8/22/17 5:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 5:15 PM,MIT Jones Island,0.0
+8/22/17 5:15 PM,GCAC Mobile,0.0
+8/22/17 5:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 5:15 PM,Shell Corunna,0.0
+8/22/17 5:15 PM,Sprague Providence,0.0
+8/22/17 5:30 PM,Apex Oil Chesapeake,0.0
+8/22/17 5:30 PM,Nu Star Piney Point,0.0
+8/22/17 5:30 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 5:30 PM,Nu Star Newport News,0.0
+8/22/17 5:30 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 5:30 PM,Bitumar Hamilton,0.0
+8/22/17 5:30 PM,Iko Industries Hamilton,0.0
+8/22/17 5:30 PM,McAsphalt Oshawa,0.0
+8/22/17 5:30 PM,McAsphalt Dartmouth,0.0
+8/22/17 5:30 PM,Suncor Montreal,0.0
+8/22/17 5:30 PM,Canterm Montreal,0.0
+8/22/17 5:30 PM,TME Montreal,0.0
+8/22/17 5:30 PM,Sprague Sorel-Tracy,0.0
+8/22/17 5:30 PM,Sterling Fuels Windsor,0.0
+8/22/17 5:30 PM,BP Whiting,0.0
+8/22/17 5:30 PM,AOS Chicago,0.0
+8/22/17 5:30 PM,Marathon Detroit,0.0
+8/22/17 5:30 PM,Suncor Sarnia,0.0
+8/22/17 5:30 PM,Peckham Bronx,0.0
+8/22/17 5:30 PM,Nu Star Bronx,0.0
+8/22/17 5:30 PM,Nu Star Albany,0.0
+8/22/17 5:30 PM,Peckham Albany,0.0
+8/22/17 5:30 PM,Gorman Albany,0.0
+8/22/17 5:30 PM,Pike Portsmouth,0.0
+8/22/17 5:30 PM,Aggregate Industries Boston,0.0
+8/22/17 5:30 PM,Nu Star Baltimore,0.0
+8/22/17 5:30 PM,Irving St. John,0.0
+8/22/17 5:30 PM,McAsphalt Hamilton,0.0
+8/22/17 5:30 PM,Nu Star Dumfries,0.0
+8/22/17 5:30 PM,Warner Mistersky,0.0
+8/22/17 5:30 PM,BP Toledo,0.0
+8/22/17 5:30 PM,BP Cleveland,0.0
+8/22/17 5:30 PM,Irving Botwood,0.0
+8/22/17 5:30 PM,Irving Stephenville,0.0
+8/22/17 5:30 PM,Irving Holyrood,0.0
+8/22/17 5:30 PM,Irving Searsport,0.0
+8/22/17 5:30 PM,Irving South Portland,0.0
+8/22/17 5:30 PM,Irving Newington,0.0
+8/22/17 5:30 PM,Irving New Haven,0.0
+8/22/17 5:30 PM,NOCO Tonawanda,0.0
+8/22/17 5:30 PM,Bajo Grande Refinery,0.0
+8/22/17 5:30 PM,Nu Star Savannah,0.0
+8/22/17 5:30 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 5:30 PM,MIT Jones Island,0.0
+8/22/17 5:30 PM,GCAC Mobile,0.0
+8/22/17 5:30 PM,Canadian Asphalt Industries,0.0
+8/22/17 5:30 PM,Shell Corunna,0.0
+8/22/17 5:30 PM,Sprague Providence,0.0
+8/22/17 5:45 PM,Apex Oil Chesapeake,0.0
+8/22/17 5:45 PM,Nu Star Piney Point,0.0
+8/22/17 5:45 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 5:45 PM,Nu Star Newport News,0.0
+8/22/17 5:45 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 5:45 PM,Bitumar Hamilton,0.0
+8/22/17 5:45 PM,Iko Industries Hamilton,0.0
+8/22/17 5:45 PM,McAsphalt Oshawa,0.0
+8/22/17 5:45 PM,McAsphalt Dartmouth,0.0
+8/22/17 5:45 PM,Suncor Montreal,0.0
+8/22/17 5:45 PM,Canterm Montreal,0.0
+8/22/17 5:45 PM,TME Montreal,0.0
+8/22/17 5:45 PM,Sprague Sorel-Tracy,0.0
+8/22/17 5:45 PM,Sterling Fuels Windsor,0.0
+8/22/17 5:45 PM,BP Whiting,0.0
+8/22/17 5:45 PM,AOS Chicago,0.0
+8/22/17 5:45 PM,Marathon Detroit,0.0
+8/22/17 5:45 PM,Suncor Sarnia,0.0
+8/22/17 5:45 PM,Peckham Bronx,0.0
+8/22/17 5:45 PM,Nu Star Bronx,0.0
+8/22/17 5:45 PM,Nu Star Albany,0.0
+8/22/17 5:45 PM,Peckham Albany,0.0
+8/22/17 5:45 PM,Gorman Albany,0.0
+8/22/17 5:45 PM,Pike Portsmouth,0.0
+8/22/17 5:45 PM,Aggregate Industries Boston,0.0
+8/22/17 5:45 PM,Nu Star Baltimore,0.0
+8/22/17 5:45 PM,Irving St. John,0.0
+8/22/17 5:45 PM,McAsphalt Hamilton,0.0
+8/22/17 5:45 PM,Nu Star Dumfries,0.0
+8/22/17 5:45 PM,Warner Mistersky,0.0
+8/22/17 5:45 PM,BP Toledo,0.0
+8/22/17 5:45 PM,BP Cleveland,0.0
+8/22/17 5:45 PM,Irving Botwood,0.0
+8/22/17 5:45 PM,Irving Stephenville,0.0
+8/22/17 5:45 PM,Irving Holyrood,0.0
+8/22/17 5:45 PM,Irving Searsport,0.0
+8/22/17 5:45 PM,Irving South Portland,0.0
+8/22/17 5:45 PM,Irving Newington,0.0
+8/22/17 5:45 PM,Irving New Haven,0.0
+8/22/17 5:45 PM,NOCO Tonawanda,0.0
+8/22/17 5:45 PM,Bajo Grande Refinery,0.0
+8/22/17 5:45 PM,Nu Star Savannah,0.0
+8/22/17 5:45 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 5:45 PM,MIT Jones Island,0.0
+8/22/17 5:45 PM,GCAC Mobile,0.0
+8/22/17 5:45 PM,Canadian Asphalt Industries,0.0
+8/22/17 5:45 PM,Shell Corunna,0.0
+8/22/17 5:45 PM,Sprague Providence,0.0
+8/22/17 6:00 PM,Apex Oil Chesapeake,0.0
+8/22/17 6:00 PM,Nu Star Piney Point,0.0
+8/22/17 6:00 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 6:00 PM,Nu Star Newport News,0.0
+8/22/17 6:00 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 6:00 PM,Bitumar Hamilton,0.0
+8/22/17 6:00 PM,Iko Industries Hamilton,0.0
+8/22/17 6:00 PM,McAsphalt Oshawa,0.0
+8/22/17 6:00 PM,McAsphalt Dartmouth,0.0
+8/22/17 6:00 PM,Suncor Montreal,0.0
+8/22/17 6:00 PM,Canterm Montreal,0.0
+8/22/17 6:00 PM,TME Montreal,0.0
+8/22/17 6:00 PM,Sprague Sorel-Tracy,0.0
+8/22/17 6:00 PM,Sterling Fuels Windsor,0.0
+8/22/17 6:00 PM,BP Whiting,0.0
+8/22/17 6:00 PM,AOS Chicago,0.0
+8/22/17 6:00 PM,Marathon Detroit,0.0
+8/22/17 6:00 PM,Suncor Sarnia,0.0
+8/22/17 6:00 PM,Peckham Bronx,0.0
+8/22/17 6:00 PM,Nu Star Bronx,0.0
+8/22/17 6:00 PM,Nu Star Albany,0.0
+8/22/17 6:00 PM,Peckham Albany,0.0
+8/22/17 6:00 PM,Gorman Albany,0.0
+8/22/17 6:00 PM,Pike Portsmouth,0.0
+8/22/17 6:00 PM,Aggregate Industries Boston,0.0
+8/22/17 6:00 PM,Nu Star Baltimore,0.0
+8/22/17 6:00 PM,Irving St. John,0.0
+8/22/17 6:00 PM,McAsphalt Hamilton,0.0
+8/22/17 6:00 PM,Nu Star Dumfries,0.0
+8/22/17 6:00 PM,Warner Mistersky,0.0
+8/22/17 6:00 PM,BP Toledo,0.0
+8/22/17 6:00 PM,BP Cleveland,0.0
+8/22/17 6:00 PM,Irving Botwood,0.0
+8/22/17 6:00 PM,Irving Stephenville,0.0
+8/22/17 6:00 PM,Irving Holyrood,0.0
+8/22/17 6:00 PM,Irving Searsport,0.0
+8/22/17 6:00 PM,Irving South Portland,0.0
+8/22/17 6:00 PM,Irving Newington,0.0
+8/22/17 6:00 PM,Irving New Haven,0.0
+8/22/17 6:00 PM,NOCO Tonawanda,0.0
+8/22/17 6:00 PM,Bajo Grande Refinery,0.0
+8/22/17 6:00 PM,Nu Star Savannah,0.0
+8/22/17 6:00 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 6:00 PM,MIT Jones Island,0.0
+8/22/17 6:00 PM,GCAC Mobile,0.0
+8/22/17 6:00 PM,Canadian Asphalt Industries,0.0
+8/22/17 6:00 PM,Shell Corunna,0.0
+8/22/17 6:00 PM,Sprague Providence,0.0
+8/22/17 6:15 PM,Apex Oil Chesapeake,0.0
+8/22/17 6:15 PM,Nu Star Piney Point,0.0
+8/22/17 6:15 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 6:15 PM,Nu Star Newport News,0.0
+8/22/17 6:15 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 6:15 PM,Bitumar Hamilton,0.0
+8/22/17 6:15 PM,Iko Industries Hamilton,0.0
+8/22/17 6:15 PM,McAsphalt Oshawa,0.0
+8/22/17 6:15 PM,McAsphalt Dartmouth,0.0
+8/22/17 6:15 PM,Suncor Montreal,0.0
+8/22/17 6:15 PM,Canterm Montreal,0.0
+8/22/17 6:15 PM,TME Montreal,0.0
+8/22/17 6:15 PM,Sprague Sorel-Tracy,0.0
+8/22/17 6:15 PM,Sterling Fuels Windsor,0.0
+8/22/17 6:15 PM,BP Whiting,0.0
+8/22/17 6:15 PM,AOS Chicago,0.0
+8/22/17 6:15 PM,Marathon Detroit,0.0
+8/22/17 6:15 PM,Suncor Sarnia,0.0
+8/22/17 6:15 PM,Peckham Bronx,0.0
+8/22/17 6:15 PM,Nu Star Bronx,0.0
+8/22/17 6:15 PM,Nu Star Albany,0.0
+8/22/17 6:15 PM,Peckham Albany,0.0
+8/22/17 6:15 PM,Gorman Albany,0.0
+8/22/17 6:15 PM,Pike Portsmouth,0.0
+8/22/17 6:15 PM,Aggregate Industries Boston,0.0
+8/22/17 6:15 PM,Nu Star Baltimore,0.0
+8/22/17 6:15 PM,Irving St. John,0.0
+8/22/17 6:15 PM,McAsphalt Hamilton,0.0
+8/22/17 6:15 PM,Nu Star Dumfries,0.0
+8/22/17 6:15 PM,Warner Mistersky,0.0
+8/22/17 6:15 PM,BP Toledo,0.0
+8/22/17 6:15 PM,BP Cleveland,0.0
+8/22/17 6:15 PM,Irving Botwood,0.0
+8/22/17 6:15 PM,Irving Stephenville,0.0
+8/22/17 6:15 PM,Irving Holyrood,0.0
+8/22/17 6:15 PM,Irving Searsport,0.0
+8/22/17 6:15 PM,Irving South Portland,0.0
+8/22/17 6:15 PM,Irving Newington,0.0
+8/22/17 6:15 PM,Irving New Haven,0.0
+8/22/17 6:15 PM,NOCO Tonawanda,0.0
+8/22/17 6:15 PM,Bajo Grande Refinery,0.0
+8/22/17 6:15 PM,Nu Star Savannah,0.0
+8/22/17 6:15 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 6:15 PM,MIT Jones Island,0.0
+8/22/17 6:15 PM,GCAC Mobile,0.0
+8/22/17 6:15 PM,Canadian Asphalt Industries,0.0
+8/22/17 6:15 PM,Shell Corunna,0.0
+8/22/17 6:15 PM,Sprague Providence,0.0
+8/22/17 9:03 PM,Apex Oil Chesapeake,0.0
+8/22/17 9:03 PM,Nu Star Piney Point,0.0
+8/22/17 9:03 PM,Kinder Morgan (Valero) Richmond,0.0
+8/22/17 9:03 PM,Nu Star Newport News,0.0
+8/22/17 9:03 PM,Apex Oil Baltimore (Valero),0.0
+8/22/17 9:03 PM,Bitumar Hamilton,0.0
+8/22/17 9:03 PM,Iko Industries Hamilton,0.0
+8/22/17 9:03 PM,McAsphalt Oshawa,0.0
+8/22/17 9:03 PM,McAsphalt Dartmouth,0.0
+8/22/17 9:03 PM,Suncor Montreal,0.0
+8/22/17 9:03 PM,Canterm Montreal,0.0
+8/22/17 9:03 PM,TME Montreal,0.0
+8/22/17 9:03 PM,Sprague Sorel-Tracy,0.0
+8/22/17 9:03 PM,Sterling Fuels Windsor,0.0
+8/22/17 9:03 PM,BP Whiting,0.0
+8/22/17 9:03 PM,AOS Chicago,0.0
+8/22/17 9:03 PM,Marathon Detroit,0.0
+8/22/17 9:03 PM,Suncor Sarnia,0.0
+8/22/17 9:03 PM,Peckham Bronx,0.0
+8/22/17 9:03 PM,Nu Star Bronx,0.0
+8/22/17 9:03 PM,Nu Star Albany,0.0
+8/22/17 9:03 PM,Peckham Albany,0.0
+8/22/17 9:03 PM,Gorman Albany,0.0
+8/22/17 9:03 PM,Pike Portsmouth,0.0
+8/22/17 9:03 PM,Aggregate Industries Boston,0.0
+8/22/17 9:03 PM,Nu Star Baltimore,0.0
+8/22/17 9:03 PM,Irving St. John,0.0
+8/22/17 9:03 PM,McAsphalt Hamilton,0.0
+8/22/17 9:03 PM,Nu Star Dumfries,0.0
+8/22/17 9:03 PM,Warner Mistersky,0.0
+8/22/17 9:03 PM,BP Toledo,0.0
+8/22/17 9:03 PM,BP Cleveland,0.0
+8/22/17 9:03 PM,Irving Botwood,0.0
+8/22/17 9:03 PM,Irving Stephenville,0.0
+8/22/17 9:03 PM,Irving Holyrood,0.0
+8/22/17 9:03 PM,Irving Searsport,0.0
+8/22/17 9:03 PM,Irving South Portland,0.0
+8/22/17 9:03 PM,Irving Newington,0.0
+8/22/17 9:03 PM,Irving New Haven,0.0
+8/22/17 9:03 PM,NOCO Tonawanda,0.0
+8/22/17 9:03 PM,Bajo Grande Refinery,0.0
+8/22/17 9:03 PM,Nu Star Savannah,0.0
+8/22/17 9:03 PM,Payne & Dolan Milwaukee,0.0
+8/22/17 9:03 PM,MIT Jones Island,0.0
+8/22/17 9:03 PM,GCAC Mobile,0.0
+8/22/17 9:03 PM,Canadian Asphalt Industries,0.0
+8/22/17 9:03 PM,Shell Corunna,0.0
+8/22/17 9:03 PM,Sprague Providence,0.0

@@ -31,7 +31,7 @@ public class SeaTracker
 		WayPointManager wpManager = new WayPointManager();
 		
 		ArrayList<Vessel> vessels = new ArrayList<>();
-		try (CSVParser parser = new CSVParser(new FileReader("src/main/resources/shipsizes.csv"), CSVFormat.DEFAULT.withHeader()))
+		try (CSVParser parser = new CSVParser(new FileReader("resources/shipsizes.csv"), CSVFormat.DEFAULT.withHeader()))
 		{
 			for (CSVRecord record : parser)
 			{

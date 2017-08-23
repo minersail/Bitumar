@@ -14,6 +14,32 @@ if (!hasProperty('mainClass')) {
     ext.mainClass = 'com.bitumar.seatracker.SeaTracker'
 }
 
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.bitumar.seatracker.SeaTracker'
+    }
+}
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'eu.appsatori:gradle-fatjar-plugin:0.3'
+    }
+}
+
+task fatJar(type: Jar) {
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+    manifest {
+        attributes 'Implementation-Title': 'Gradle Quickstart', 'Implementation-Version': 1.0
+        attributes 'Main-Class': 'com.bitumar.seatracker.SeaTracker'
+    }
+}
+
 repositories {
     mavenCentral()
     // You may define additional repositories, or even remove "mavenCentral()".

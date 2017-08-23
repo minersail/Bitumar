@@ -16,7 +16,7 @@ public class WayPointManager
 	public WayPointManager()
 	{
 		waypoints = new ArrayList<>();
-		try (CSVParser parser = new CSVParser(new FileReader("src/main/resources/terminalrefinerylist.csv"), CSVFormat.DEFAULT.withHeader()))
+		try (CSVParser parser = new CSVParser(new FileReader("resources/terminalrefinerylist.csv"), CSVFormat.DEFAULT.withHeader()))
 		{
 			for (CSVRecord record : parser)
 			{

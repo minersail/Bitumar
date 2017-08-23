@@ -1,19 +1,15 @@
 package com.bitumar.seatracker.webscraper;
 
 import com.bitumar.seatracker.objects.Journey;
+import com.bitumar.seatracker.objects.LogWriter;
 import com.bitumar.seatracker.objects.Terminal;
 import com.bitumar.seatracker.objects.Vessel;
 import com.bitumar.seatracker.objects.WayPoint;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.text.DateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVPrinter;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
@@ -53,139 +49,44 @@ public class ScrapeJob implements Job
 			}
 		}
 		
-		//------------------------------------------------------------
-		CSVPrinter csvFilePrinter = null;
-				
-		try 
-		{						
-			//initialize CSVPrinter object 
-	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/journey_log.csv", true), CSVFormat.DEFAULT);
-	        
-	        //Create CSV file header if empty
-			if (Files.size(Paths.get("src/main/resources/journey_log.csv")) == 0)
-				csvFilePrinter.printRecord("Time", "Vessel", "Waypoints", "Time Parked");
-			
-			for (Journey journey : journeys) 
-			{
-				String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
-				String vessel = journey.getVessel().getName();
-				final ArrayList<String> waypoints = new ArrayList<>();
-				journey.getWaypoints().forEach((waypoint) -> {
-					waypoints.add(waypoint.getName());
-				});
-				String parkTime = Integer.toString(journey.getParkedTime());
-	            csvFilePrinter.printRecord(time, vessel, String.join(", ", waypoints), parkTime);
-			}
-
-			System.out.println("CSV file was created successfully !!!");
-			
-		} 
-		catch (Exception e) 
+		LogWriter writer = new LogWriter();
+		for (Journey journey : journeys) 
 		{
-			System.out.println("Error in CsvFileWriter !!!");
-			e.printStackTrace(System.out);
+			String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
+			String vessel = journey.getVessel().getName();
+			final ArrayList<String> waypoints = new ArrayList<>();
+			journey.getWaypoints().forEach((waypoint) -> {
+				waypoints.add(waypoint.getName());
+			});
+			String parkTime = Integer.toString(journey.getParkedTime());
+			writer.addLine(time, vessel, String.join(", ", waypoints), parkTime);
 		}
-		finally 
+		writer.print("resources/journey_log.csv", "Time", "Vessel", "Waypoints", "Time Parked");
+					
+		for (Vessel vessel : vessels) 
 		{
-			try 
+			String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
+			String name = vessel.getName();
+			String lat = Float.toString(vessel.getLat());
+			String lon = Float.toString(vessel.getLong());
+			String speed = Float.toString(vessel.getSpeed());
+			writer.addLine(time, name, lat, lon, speed);
+		}		
+		writer.print("resources/vessel_log.csv", "Time", "Name", "Latitude", "Longitude", "Speed");
+		
+		for (WayPoint waypoint : journeys.get(0).getWayPointManager().getWayPoints())
+		{
+			if (waypoint instanceof Terminal)
 			{
-				csvFilePrinter.close();
-			} 
-			catch (IOException e) 
-			{
-				System.out.println("Error while flushing/closing fileWriter/csvPrinter !!!");
-                e.printStackTrace(System.out);
+				Terminal terminal = (Terminal)waypoint;
+
+				String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
+				String name = waypoint.getName();
+				String product = Float.toString(terminal.getProduct());
+
+				writer.addLine(time, name, product);
 			}
 		}		
-		
-		//------------------------------------------------------------
-		csvFilePrinter = null;
-				
-		try 
-		{						
-			//initialize CSVPrinter object 
-	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/vessel_log.csv", true), CSVFormat.DEFAULT);
-	        
-	        //Create CSV file header if empty
-			if (Files.size(Paths.get("src/main/resources/vessel_log.csv")) == 0)
-				csvFilePrinter.printRecord("Time", "Name", "Latitude", "Longitude", "Speed");
-			
-			for (Vessel vessel : vessels) 
-			{
-				String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
-				String name = vessel.getName();
-				String lat = Float.toString(vessel.getLat());
-				String lon = Float.toString(vessel.getLong());
-				String speed = Float.toString(vessel.getSpeed());
-	            csvFilePrinter.printRecord(time, name, lat, lon, speed);
-			}
-
-			System.out.println("CSV file was created successfully !!!");
-			
-		} 
-		catch (Exception e) 
-		{
-			System.out.println("Error in CsvFileWriter !!!");
-			e.printStackTrace(System.out);
-		}
-		finally 
-		{
-			try 
-			{
-				csvFilePrinter.close();
-			} 
-			catch (IOException e) 
-			{
-				System.out.println("Error while flushing/closing fileWriter/csvPrinter !!!");
-                e.printStackTrace(System.out);
-			}
-		}
-		
-		//------------------------------------------------------------
-		csvFilePrinter = null;
-				
-		try 
-		{						
-			//initialize CSVPrinter object 
-	        csvFilePrinter = new CSVPrinter(new FileWriter("src/main/resources/terminal_log.csv", true), CSVFormat.DEFAULT);
-	        
-	        //Create CSV file header if empty
-			if (Files.size(Paths.get("src/main/resources/terminal_log.csv")) == 0)
-				csvFilePrinter.printRecord("Time", "Name", "Product");
-			
-			for (WayPoint waypoint : journeys.get(0).getWayPointManager().getWayPoints())
-			{
-				if (waypoint instanceof Terminal)
-				{
-					Terminal terminal = (Terminal)waypoint;
-				
-					String time = DateFormat.getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT).format(context.getFireTime());
-					String name = waypoint.getName();
-					String product = Float.toString(terminal.getProduct());
-					
-					csvFilePrinter.printRecord(time, name, product);
-				}
-			}
-
-			System.out.println("CSV file was created successfully !!!");
-			
-		} 
-		catch (Exception e) 
-		{
-			System.out.println("Error in CsvFileWriter !!!");
-			e.printStackTrace(System.out);
-		}
-		finally 
-		{
-			try 
-			{
-				csvFilePrinter.close();
-			} 
-			catch (IOException e) 
-			{
-				System.out.println("Error while flushing/closing fileWriter/csvPrinter !!!");
-                e.printStackTrace(System.out);
-			}
-		}
+		writer.print("resources/terminal_log.csv", "Time", "Name", "Product");
 	}
 }

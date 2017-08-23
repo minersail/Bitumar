@@ -12,7 +12,7 @@ public class WebScraper
 {
 	public WebScraper()
 	{
-		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
 	}
 	
 	public ArrayList<ShipData> scrapeData()
