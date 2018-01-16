@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -19,15 +20,18 @@ public class WebScraper
 	{
 		ArrayList<ShipData> data = new ArrayList<>();
 		
-		WebDriver driver = new ChromeDriver();
+		ChromeOptions options = new ChromeOptions();
+		options.addArguments("--headless");
+		WebDriver driver = new ChromeDriver(options);
+		
 		driver.get("http://www.marinetraffic.com");
 		driver.findElement(By.id("user-logggin")).click();
 		driver.findElement(By.id("email")).sendKeys("jkwoo1234@gmail.com");
 		driver.findElement(By.id("password")).sendKeys("Port8080");
-		driver.findElement(By.cssSelector("button.vertical-offset-10")).click();
+		driver.findElement(By.cssSelector("button[type='submit']")).click();
 		
 		WebElement element1 = (new WebDriverWait(driver, 10))
-			.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("a[href='/en/ais/index/ships/all/_:35575cc9087fd216f2873d74b5ae8426']")));	
+			.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("a.logout"))); // Wait until we get the logout button to appear
 		
 		driver.get("http://www.marinetraffic.com/en/ais/index/fleet/all/_:35575cc9087fd216f2873d74b5ae8426/per_page:20");
 		
@@ -40,19 +44,22 @@ public class WebScraper
 				shipList.add(t.findElement(By.cssSelector("td:nth-child(4) a")).getAttribute("href"));
 			});
 			
+			
 			if (driver.findElements(By.cssSelector("a[rel='next']")).isEmpty())
 			{
 				break;
 			}
 			else
 			{
-				driver.findElement(By.cssSelector("a[rel='next']")).click();
-				new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".page_select")));
+				String newPage = driver.findElement(By.cssSelector("a[rel='next']")).getAttribute("href");
+				driver.get(newPage);
+				new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("table")));
 			}
 		}
 		
 		shipList.forEach((String url) -> 
 		{
+			System.out.println("Accessing: " + url);
 			driver.get(url);
 			ShipData shipdata = new ShipData();
 			shipdata.name = driver.findElement(By.cssSelector("h1")).getText();
